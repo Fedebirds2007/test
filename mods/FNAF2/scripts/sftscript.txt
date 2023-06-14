@@ -1,0 +1,97 @@
+var player = new FlxSprite();
+player.loadGraphic("assets/player.png");
+add(player);
+if player == player2
+     xs = (true);
+
+setnamespeed 129, 124, 222;
+
+if position = 160
+then
+kill luasprite
+
+variable amd
+amd - player;
+if player 9 or 5 or 5
+then
+remove variable = true;
+
+thenif
+variable = not
+
+
+Set Position :
+
+whiteSquare.x = 100;
+whiteSquare.y = 300;
+
+Set Scale :
+
+whiteSquare.scale.set(0.5, 0.5);
+
+Animation Play :
+
+player.animation.play("walk");
+
+Smooth Tween :
+
+FlxTween.tween(sprite, { x: 600, y: 800 }, 2, { ease: FlxEase.quadInOut });
+
+Multi Keys :
+
+    if (FlxG.keys.anyPressed([LEFT, A]))
+    {
+        // Move left
+    }
+
+
+makeLuaSprite(tag:String, image:String, x:Float, y:Float)
+
+makeAnimatedLuaSprite(tag:String, image:String, x:Float, y:Float)
+
+addLuaSprite(tag:String, front:Bool = false)
+
+removeLuaSprite(tag:String, destroy:Bool = true)
+
+setScrollFactor(obj:String, scrollX:Float, scrollY:Float)
+
+addAnimationByPrefix(tag:String, name:String, prefix:String, framerate:Int = 24, loop:Bool = true)
+
+scaleObject(obj:String, multX:Float, multY:Float = 0)
+
+setObjectCamera(obj:String, camera:String)
+
+makeLuaText(tag:String, text:String, width:Int, x:Float, y:Float)
+
+addLuaText(tag:String)
+
+removeLuaText(tag:String, destroy:Bool = true)
+
+characterPlayAnim(character:String, anim:String, forced:Bool = false)
+
+setScore(value:Int = 0)
+
+setMisses(value:Int = 0)
+
+setHits(value:Int = 0)
+
+setRatingPercent(value:Float)
+
+keyJustPressed(name:String)
+
+keyPressed(name:String)
+
+keyReleased(name:String)
+
+mouseClicked(name:String)
+
+mousePressed(name:String)
+
+mouseReleased(name:String)
+
+cameraFlash(camera:String, color:String, duration:Float,forced:Bool)
+
+cameraFade(camera:String, color:String, duration:Float,forced:Bool)
+
+objectPlayAnimation(obj:String, name:String, forced:Bool = false)
+

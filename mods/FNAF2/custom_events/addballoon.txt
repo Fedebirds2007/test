@@ -1,0 +1,2 @@
+value 1 : type of balloon
+value 2 : X
