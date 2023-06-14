@@ -1,0 +1,87 @@
+{
+"animations":
+	[
+		{
+			"anim": "idle",
+			"name": "Bete Noire Idle",
+			"fps": 24,
+			"loop": false,
+			"indices": []
+		},
+		{
+			"anim": "singUP",
+			"name": "Bete Noire Up",
+			"fps": 24,
+			"loop": false,
+			"indices": []
+		},
+		{
+			"anim": "singLEFT",
+			"name": "Bete Noire Left",
+			"fps": 24,
+			"loop": false,
+			"indices": []
+		},
+		{
+			"anim": "singRIGHT",
+			"name": "Bete Noire Right",
+			"fps": 24,
+			"loop": false,
+			"indices": []
+		},
+		{
+			"anim": "singDOWN",
+			"name": "Bete Noire Down",
+			"fps": 24,
+			"loop": false,
+			"indices": []
+		},
+		{
+			"anim": "singUPmiss",
+			"name": "Bete Noire Up",
+			"fps": 24,
+			"loop": false,
+			"indices": []
+		},
+		{
+			"anim": "singLEFTmiss",
+			"name": "Bete Noire Left",
+			"fps": 24,
+			"loop": false,
+			"indices": []
+		},
+		{
+			"anim": "singRIGHTmiss",
+			"name": "Bete Noire Right",
+			"fps": 24,
+			"loop": false,
+			"indices": []
+		},
+		{
+			"anim": "singDOWNmiss",
+			"name": "Bete Noire Down",
+			"fps": 24,
+			"loop": false,
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Bete Noire
+	"position": [
+		40,
+		200
+	],
+	"healthicon": "bete"
+	"flip_x": false,
+	"healthbar_colors": [
+		215,
+		198,
+		173
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

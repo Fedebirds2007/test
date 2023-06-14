@@ -1,0 +1,119 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="gfCar.png">
+	<!-- Created with Adobe Animate version 21.0.9.42677 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="GF Dancing Beat Hair blowing CAR0000" x="25" y="25" width="703" height="674" pivotX="149.4" pivotY="335.6"/>
+	<SubTexture name="GF Dancing Beat Hair blowing CAR0001" x="753" y="25" width="703" height="674"/>
+	<SubTexture name="GF Dancing Beat Hair blowing CAR0002" x="1481" y="25" width="703" height="674"/>
+	<SubTexture name="GF Dancing Beat Hair blowing CAR0003" x="2209" y="25" width="703" height="674"/>
+	<SubTexture name="GF Dancing Beat Hair blowing CAR0004" x="2937" y="25" width="703" height="674"/>
+	<SubTexture name="GF Dancing Beat Hair blowing CAR0005" x="3665" y="25" width="703" height="674"/>
+	<SubTexture name="GF Dancing Beat Hair blowing CAR0006" x="4393" y="25" width="703" height="674"/>
+	<SubTexture name="GF Dancing Beat Hair blowing CAR0007" x="5121" y="25" width="703" height="674"/>
+	<SubTexture name="GF Dancing Beat Hair blowing CAR0008" x="5849" y="25" width="703" height="674"/>
+	<SubTexture name="GF Dancing Beat Hair blowing CAR0009" x="6577" y="25" width="703" height="674"/>
+	<SubTexture name="GF Dancing Beat Hair blowing CAR0010" x="7305" y="25" width="703" height="674"/>
+	<SubTexture name="GF Dancing Beat Hair blowing CAR0011" x="25" y="724" width="703" height="674"/>
+	<SubTexture name="GF Dancing Beat Hair blowing CAR0012" x="753" y="724" width="703" height="674"/>
+	<SubTexture name="GF Dancing Beat Hair blowing CAR0013" x="1481" y="724" width="703" height="674"/>
+	<SubTexture name="GF Dancing Beat Hair blowing CAR0014" x="2209" y="724" width="703" height="674"/>
+	<SubTexture name="GF Dancing Beat Hair blowing CAR0015" x="2937" y="724" width="703" height="674"/>
+	<SubTexture name="GF Dancing Beat Hair blowing CAR0016" x="3665" y="724" width="703" height="674"/>
+	<SubTexture name="GF Dancing Beat Hair blowing CAR0017" x="4393" y="724" width="703" height="674"/>
+	<SubTexture name="GF Dancing Beat Hair blowing CAR0018" x="5121" y="724" width="703" height="674"/>
+	<SubTexture name="GF Dancing Beat Hair blowing CAR0019" x="5849" y="724" width="703" height="674"/>
+	<SubTexture name="GF Dancing Beat Hair blowing CAR0020" x="6577" y="724" width="703" height="674"/>
+	<SubTexture name="GF Dancing Beat Hair blowing CAR0021" x="7305" y="724" width="703" height="674"/>
+	<SubTexture name="GF Dancing Beat Hair blowing CAR0022" x="25" y="1423" width="703" height="674"/>
+	<SubTexture name="GF Dancing Beat Hair blowing CAR0023" x="753" y="1423" width="703" height="674"/>
+	<SubTexture name="GF Dancing Beat Hair blowing CAR0024" x="1481" y="1423" width="703" height="674"/>
+	<SubTexture name="GF Dancing Beat Hair blowing CAR0025" x="2209" y="1423" width="703" height="674"/>
+	<SubTexture name="GF Dancing Beat Hair blowing CAR0026" x="2937" y="1423" width="703" height="674"/>
+	<SubTexture name="GF Dancing Beat Hair blowing CAR0027" x="3665" y="1423" width="703" height="674"/>
+	<SubTexture name="GF Dancing Beat Hair blowing CAR0028" x="4393" y="1423" width="703" height="674"/>
+	<SubTexture name="GF Dancing Beat Hair blowing CAR0029" x="5121" y="1423" width="703" height="674"/>
+	<SubTexture name="GF Duck Hair Blowing0000" x="5849" y="1423" width="713" height="590" pivotX="154.85" pivotY="251.2"/>
+	<SubTexture name="GF Duck Hair Blowing0001" x="6587" y="1423" width="713" height="590"/>
+	<SubTexture name="GF Duck Hair Blowing0002" x="7325" y="1423" width="713" height="590"/>
+	<SubTexture name="GF Duck Hair Blowing0003" x="25" y="2122" width="713" height="590"/>
+	<SubTexture name="GF Sad Hair Blowing CAR0000" x="763" y="2122" width="699" height="664" pivotX="198.15" pivotY="10.2"/>
+	<SubTexture name="GF Sad Hair Blowing CAR0001" x="1487" y="2122" width="699" height="664"/>
+	<SubTexture name="GF Sad Hair Blowing CAR0002" x="2211" y="2122" width="699" height="664"/>
+	<SubTexture name="GF Sad Hair Blowing CAR0003" x="2935" y="2122" width="699" height="664"/>
+	<SubTexture name="GF Sad Hair Blowing CAR0004" x="3659" y="2122" width="699" height="664"/>
+	<SubTexture name="GF Sad Hair Blowing CAR0005" x="4383" y="2122" width="699" height="664"/>
+	<SubTexture name="GF Sad Hair Blowing CAR0006" x="2935" y="2122" width="699" height="664"/>
+	<SubTexture name="GF Sad Hair Blowing CAR0007" x="5107" y="2122" width="699" height="664"/>
+	<SubTexture name="GF Sad Hair Blowing CAR0008" x="4383" y="2122" width="699" height="664"/>
+	<SubTexture name="GF Sad Hair Blowing CAR0009" x="5831" y="2122" width="699" height="664"/>
+	<SubTexture name="GF Sad Hair Blowing CAR0010" x="5107" y="2122" width="699" height="664"/>
+	<SubTexture name="GF Sad Hair Blowing CAR0011" x="6555" y="2122" width="699" height="664"/>
+	<SubTexture name="GF Sad Hair Blowing CAR0012" x="5831" y="2122" width="699" height="664"/>
+	<SubTexture name="GF Sad Hair Blowing CAR0013" x="3659" y="2122" width="699" height="664"/>
+	<SubTexture name="GF Sad Hair Blowing CAR0014" x="6555" y="2122" width="699" height="664"/>
+	<SubTexture name="GF Sad Hair Blowing CAR0015" x="2935" y="2122" width="699" height="664"/>
+	<SubTexture name="GF Sad Hair Blowing CAR0016" x="3659" y="2122" width="699" height="664"/>
+	<SubTexture name="GF Sad Hair Blowing CAR0017" x="4383" y="2122" width="699" height="664"/>
+	<SubTexture name="GF Sad Hair Blowing CAR0018" x="2935" y="2122" width="699" height="664"/>
+	<SubTexture name="GF Sad Hair Blowing CAR0019" x="5107" y="2122" width="699" height="664"/>
+	<SubTexture name="GF Sad Hair Blowing CAR0020" x="4383" y="2122" width="699" height="664"/>
+	<SubTexture name="GF Sad Hair Blowing CAR0021" x="5831" y="2122" width="699" height="664"/>
+	<SubTexture name="GF Sad Hair Blowing CAR0022" x="5107" y="2122" width="699" height="664"/>
+	<SubTexture name="GF Sad Hair Blowing CAR0023" x="6555" y="2122" width="699" height="664"/>
+	<SubTexture name="GF Sad Hair Blowing CAR0024" x="5831" y="2122" width="699" height="664"/>
+	<SubTexture name="GF Sad Hair Blowing CAR0025" x="3659" y="2122" width="699" height="664"/>
+	<SubTexture name="GF Sad Hair Blowing CAR0026" x="6555" y="2122" width="699" height="664"/>
+	<SubTexture name="GF Sad Hair Blowing CAR0027" x="2935" y="2122" width="699" height="664"/>
+	<SubTexture name="GF Sad Hair Blowing CAR0028" x="3659" y="2122" width="699" height="664"/>
+	<SubTexture name="GF Sad Hair Blowing CAR0029" x="4383" y="2122" width="699" height="664"/>
+	<SubTexture name="GF Sad Hair Blowing CAR0030" x="2935" y="2122" width="699" height="664"/>
+	<SubTexture name="GF Sad Hair Blowing CAR0031" x="5107" y="2122" width="699" height="664"/>
+	<SubTexture name="GF Sad Hair Blowing CAR0032" x="4383" y="2122" width="699" height="664"/>
+	<SubTexture name="GF Sad Hair Blowing CAR0033" x="5831" y="2122" width="699" height="664"/>
+	<SubTexture name="GF Sad Hair Blowing CAR0034" x="5107" y="2122" width="699" height="664"/>
+	<SubTexture name="GF Sad Hair Blowing CAR0035" x="6555" y="2122" width="699" height="664"/>
+	<SubTexture name="GF Sad Hair Blowing CAR0036" x="5831" y="2122" width="699" height="664"/>
+	<SubTexture name="GF Sad Hair Blowing CAR0037" x="3659" y="2122" width="699" height="664"/>
+	<SubTexture name="GF Sad Hair Blowing CAR0038" x="6555" y="2122" width="699" height="664"/>
+	<SubTexture name="GF Sad Hair Blowing CAR0039" x="2935" y="2122" width="699" height="664"/>
+	<SubTexture name="GF Sad Hair Blowing CAR0040" x="3659" y="2122" width="699" height="664"/>
+	<SubTexture name="GF Sad Hair Blowing CAR0041" x="4383" y="2122" width="699" height="664"/>
+	<SubTexture name="GF Sad Hair Blowing CAR0042" x="2935" y="2122" width="699" height="664"/>
+	<SubTexture name="GF Sad Hair Blowing CAR0043" x="5107" y="2122" width="699" height="664"/>
+	<SubTexture name="GF Sad Hair Blowing CAR0044" x="4383" y="2122" width="699" height="664"/>
+	<SubTexture name="GF Sad Hair Blowing CAR0045" x="5831" y="2122" width="699" height="664"/>
+	<SubTexture name="GF Sad Hair Blowing CAR0046" x="5107" y="2122" width="699" height="664"/>
+	<SubTexture name="GF Sad Hair Blowing CAR0047" x="6555" y="2122" width="699" height="664"/>
+	<SubTexture name="GF Sad Hair Blowing CAR0048" x="5831" y="2122" width="699" height="664"/>
+	<SubTexture name="GF Sad Hair Blowing CAR0049" x="3659" y="2122" width="699" height="664"/>
+	<SubTexture name="GF Sad Hair Blowing CAR0050" x="6555" y="2122" width="699" height="664"/>
+	<SubTexture name="GF Sad Hair Blowing CAR0051" x="2935" y="2122" width="699" height="664"/>
+	<SubTexture name="GF Sad Hair Blowing CAR0052" x="3659" y="2122" width="699" height="664"/>
+	<SubTexture name="GF Sad Hair Blowing CAR0053" x="4383" y="2122" width="699" height="664"/>
+	<SubTexture name="GF Sad Hair Blowing CAR0054" x="2935" y="2122" width="699" height="664"/>
+	<SubTexture name="GF Sad Hair Blowing CAR0055" x="5107" y="2122" width="699" height="664"/>
+	<SubTexture name="GF Sad Hair Blowing CAR0056" x="4383" y="2122" width="699" height="664"/>
+	<SubTexture name="GF Sad Hair Blowing CAR0057" x="5831" y="2122" width="699" height="664"/>
+	<SubTexture name="GF Sad Hair Blowing CAR0058" x="5107" y="2122" width="699" height="664"/>
+	<SubTexture name="GF Sad Hair Blowing CAR0059" x="6555" y="2122" width="699" height="664"/>
+	<SubTexture name="GF Sad Hair Blowing CAR0060" x="5831" y="2122" width="699" height="664"/>
+	<SubTexture name="GF Sad Hair Blowing CAR0061" x="3659" y="2122" width="699" height="664"/>
+	<SubTexture name="GF Sad Hair Blowing CAR0062" x="6555" y="2122" width="699" height="664"/>
+	<SubTexture name="GF Sad Hair Blowing CAR0063" x="2935" y="2122" width="699" height="664"/>
+	<SubTexture name="GF Sad Hair Blowing CAR0064" x="3659" y="2122" width="699" height="664"/>
+	<SubTexture name="GF Sad Hair Blowing CAR0065" x="4383" y="2122" width="699" height="664"/>
+	<SubTexture name="GF Sad Hair Blowing CAR0066" x="2935" y="2122" width="699" height="664"/>
+	<SubTexture name="GF Sad Hair Blowing CAR0067" x="5107" y="2122" width="699" height="664"/>
+	<SubTexture name="GF Sad Hair Blowing CAR0068" x="4383" y="2122" width="699" height="664"/>
+	<SubTexture name="GF Sad Hair Blowing CAR0069" x="5831" y="2122" width="699" height="664"/>
+	<SubTexture name="GF Sad Hair Blowing CAR0070" x="5107" y="2122" width="699" height="664"/>
+	<SubTexture name="GF Sad Hair Blowing CAR0071" x="6555" y="2122" width="699" height="664"/>
+	<SubTexture name="GF Sad Hair Blowing CAR0072" x="5831" y="2122" width="699" height="664"/>
+	<SubTexture name="GF Sad Hair Blowing CAR0073" x="3659" y="2122" width="699" height="664"/>
+	<SubTexture name="GF Sad Hair Blowing CAR0074" x="6555" y="2122" width="699" height="664"/>
+	<SubTexture name="GF Sad Hair Blowing CAR0075" x="2935" y="2122" width="699" height="664"/>
+	<SubTexture name="GF Sad Hair Blowing CAR0076" x="3659" y="2122" width="699" height="664"/>
+	<SubTexture name="GF Sad Hair Blowing CAR0077" x="4383" y="2122" width="699" height="664"/>
+	<SubTexture name="GF Sad Hair Blowing CAR0078" x="2935" y="2122" width="699" height="664"/>
+	<SubTexture name="GF Sad Hair Blowing CAR0079" x="5107" y="2122" width="699" height="664"/>
+</TextureAtlas>
