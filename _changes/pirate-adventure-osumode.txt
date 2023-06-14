@@ -1,0 +1,13 @@
+mods/data/pirate-adventure/cameraMovement.lua
+mods/data/pirate-adventure/events.json
+mods/data/pirate-adventure/mod.txt
+mods/data/pirate-adventure/pirate-adventure-easy.json
+mods/data/pirate-adventure/pirate-adventure-hard.json
+mods/data/pirate-adventure/pirate-adventure.json
+mods/FNAF1/stages/stage1p.json
+mods/FNAF1/stages/stage1p.lua
+mods/FNAF1/scripts/PrecacheImages.lua
+mods/songs/pirate-adventure/Voices.ogg
+mods/songs/pirate-adventure/voices.ogg
+mods/songs/pirate-adventure/Inst.ogg
+mods/songs/pirate-adventure/inst.ogg

@@ -1,0 +1,27 @@
+mods/data/astra-perambulis/ASCEND.lua
+mods/data/astra-perambulis/astra-perambulis-original.json
+mods/data/astra-perambulis/astra-perambulis-STARWALKER.json
+mods/data/astra-perambulis/bf_death.lua
+mods/data/astra-perambulis/mod.txt
+mods/data/astra-perambulis/post-dialogue.lua
+mods/Deltarune/stages/starwalker.json
+mods/Deltarune/stages/starwalker.lua
+mods/Deltarune/custom_notetypes/shield.lua
+mods/Deltarune/custom_events/flash.lua
+mods/Deltarune/custom_events/Toggle FlxTrail.lua
+mods/Deltarune/custom_events/Set Song Length.lua
+mods/Deltarune/custom_events/lyrics.lua
+mods/Deltarune/custom_events/Cam Zoom Tween.lua
+mods/Deltarune/custom_events/Change FlxTrail Color.lua
+mods/Deltarune/scripts/accuracy.lua
+mods/Deltarune/scripts/bf_death.lua
+mods/Deltarune/scripts/iconChange.lua
+mods/Deltarune/scripts/PrecacheImages.lua
+mods/Deltarune/scripts/ThetaUI.lua
+mods/Deltarune/scripts/timeBar.lua
+mods/Deltarune/sounds/hurt.ogg
+mods/Deltarune/sounds/defend.ogg
+mods/songs/astra-perambulis/Voices.ogg
+mods/songs/astra-perambulis/voices.ogg
+mods/songs/astra-perambulis/Inst.ogg
+mods/songs/astra-perambulis/inst.ogg

@@ -1,0 +1,17 @@
+mods/data/broken-inside/broken-inside-easy.json
+mods/data/broken-inside/broken-inside-hard.json
+mods/data/broken-inside/broken-inside.json
+mods/data/broken-inside/cameraMovement.lua
+mods/data/broken-inside/events.json
+mods/data/broken-inside/jumpscare.lua
+mods/data/broken-inside/mod.txt
+mods/data/broken-inside/modchart.lua
+mods/FNAF1/stages/stage3f.json
+mods/FNAF1/stages/stage3f.lua
+mods/FNAF1/custom_events/jump.lua
+mods/FNAF1/custom_events/black-remove.lua
+mods/FNAF1/scripts/PrecacheImages.lua
+mods/songs/broken-inside/Voices.ogg
+mods/songs/broken-inside/voices.ogg
+mods/songs/broken-inside/Inst.ogg
+mods/songs/broken-inside/inst.ogg

@@ -1,0 +1,12 @@
+mods/data/stawrka/ASCEND.lua
+mods/data/stawrka/bf_death.lua
+mods/data/stawrka/mod.txt
+mods/data/stawrka/post-dialogue.lua
+mods/Deltarune/scripts/bf_death.lua
+mods/Deltarune/scripts/iconChange.lua
+mods/Deltarune/images/iconChange/man/no.png
+mods/Deltarune/images/iconChange/spamton/neo-lose.png
+mods/songs/stawrka/Voices.ogg
+mods/songs/stawrka/voices.ogg
+mods/songs/stawrka/Inst.ogg
+mods/songs/stawrka/inst.ogg

@@ -1,0 +1,22 @@
+mods/data/in-my-way/BLACK SCREEN.lua
+mods/data/in-my-way/dialogue script.lua
+mods/data/in-my-way/healthdrain.lua
+mods/data/in-my-way/in-my-way-easy.json
+mods/data/in-my-way/in-my-way-hard.json
+mods/data/in-my-way/in-my-way.json
+mods/data/in-my-way/mod.txt
+mods/data/in-my-way/post-dialogue.lua
+mods/data/in-my-way/ratingNames.lua
+mods/Deltarune/stages/sussy.json
+mods/Deltarune/stages/sussy.lua
+mods/Deltarune/custom_events/Cam Zoom Tween.lua
+mods/Deltarune/scripts/accuracy.lua
+mods/Deltarune/scripts/bf_death.lua
+mods/Deltarune/scripts/iconChange.lua
+mods/Deltarune/scripts/PrecacheImages.lua
+mods/Deltarune/scripts/ThetaUI.lua
+mods/Deltarune/scripts/timeBar.lua
+mods/songs/in-my-way/Voices.ogg
+mods/songs/in-my-way/voices.ogg
+mods/songs/in-my-way/Inst.ogg
+mods/songs/in-my-way/inst.ogg

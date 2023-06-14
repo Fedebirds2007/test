@@ -1,0 +1,15 @@
+mods/data/inside-the-shell/cameraMovement.lua
+mods/data/inside-the-shell/events.json
+mods/data/inside-the-shell/inside-the-shell-easy.json
+mods/data/inside-the-shell/inside-the-shell-hard.json
+mods/data/inside-the-shell/inside-the-shell.json
+mods/data/inside-the-shell/jumpscare.lua
+mods/data/inside-the-shell/mod.txt
+mods/data/inside-the-shell/script.lua
+mods/FNAF1/stages/stage2f.json
+mods/FNAF1/stages/stage2f.lua
+mods/FNAF1/scripts/PrecacheImages.lua
+mods/songs/inside-the-shell/Voices.ogg
+mods/songs/inside-the-shell/voices.ogg
+mods/songs/inside-the-shell/Inst.ogg
+mods/songs/inside-the-shell/inst.ogg

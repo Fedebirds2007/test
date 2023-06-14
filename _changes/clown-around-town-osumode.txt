@@ -1,0 +1,15 @@
+mods/data/clown-around-town/clown-around-town-hard.json
+mods/data/clown-around-town/clown-around-town.json
+mods/data/clown-around-town/mod.txt
+mods/data/clown-around-town/PressF1ForHelp.lua
+mods/Deltarune/stages/divorce.json
+mods/Deltarune/stages/divorce.lua
+mods/Deltarune/custom_events/Cam Zoom Tween.lua
+mods/Deltarune/scripts/accuracy.lua
+mods/Deltarune/scripts/bf_death.lua
+mods/Deltarune/scripts/iconChange.lua
+mods/Deltarune/scripts/PrecacheImages.lua
+mods/Deltarune/scripts/ThetaUI.lua
+mods/Deltarune/scripts/timeBar.lua
+mods/songs/clown-around-town/Inst.ogg
+mods/songs/clown-around-town/inst.ogg

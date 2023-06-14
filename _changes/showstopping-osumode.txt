@@ -1,0 +1,29 @@
+mods/data/showstopping/beat go brr.lua
+mods/data/showstopping/BLACK SCREEN.lua
+mods/data/showstopping/dialogue script.lua
+mods/data/showstopping/healthdrain.lua
+mods/data/showstopping/Lil fuckers.lua
+mods/data/showstopping/mod.txt
+mods/data/showstopping/PressF1ForHelp.lua
+mods/data/showstopping/showstopping-easy.json
+mods/data/showstopping/showstopping-hard.json
+mods/data/showstopping/showstopping.json
+mods/data/showstopping/tree.lua
+mods/Deltarune/stages/mike.json
+mods/Deltarune/stages/mike.lua
+mods/Deltarune/custom_notetypes/shield.lua
+mods/Deltarune/custom_events/flash.lua
+mods/Deltarune/custom_events/Image Appearance.lua
+mods/Deltarune/custom_events/Cam Zoom Tween.lua
+mods/Deltarune/scripts/accuracy.lua
+mods/Deltarune/scripts/bf_death.lua
+mods/Deltarune/scripts/iconChange.lua
+mods/Deltarune/scripts/PrecacheImages.lua
+mods/Deltarune/scripts/ThetaUI.lua
+mods/Deltarune/scripts/timeBar.lua
+mods/Deltarune/sounds/hurt.ogg
+mods/Deltarune/sounds/defend.ogg
+mods/songs/showstopping/Voices.ogg
+mods/songs/showstopping/voices.ogg
+mods/songs/showstopping/Inst.ogg
+mods/songs/showstopping/inst.ogg

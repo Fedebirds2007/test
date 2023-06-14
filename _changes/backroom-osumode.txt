@@ -1,0 +1,16 @@
+mods/data/backroom/backroom-easy.json
+mods/data/backroom/backroom-hard.json
+mods/data/backroom/backroom.json
+mods/data/backroom/cameraMovement.lua
+mods/data/backroom/events.json
+mods/data/backroom/mod.txt
+mods/FNAF1/stages/shadow.json
+mods/FNAF1/stages/shadow.lua
+mods/FNAF1/custom_notetypes/shadows.lua
+mods/FNAF1/custom_events/black-remove.lua
+mods/FNAF1/custom_events/Opponent Fade.lua
+mods/FNAF1/scripts/PrecacheImages.lua
+mods/songs/backroom/Voices.ogg
+mods/songs/backroom/voices.ogg
+mods/songs/backroom/Inst.ogg
+mods/songs/backroom/inst.ogg

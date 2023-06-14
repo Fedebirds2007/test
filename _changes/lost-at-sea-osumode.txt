@@ -1,0 +1,22 @@
+mods/data/lost-at-sea/events.json
+mods/data/lost-at-sea/lost-at-sea-easy.json
+mods/data/lost-at-sea/lost-at-sea-hard.json
+mods/data/lost-at-sea/lost-at-sea.json
+mods/data/lost-at-sea/mod.txt
+mods/FNAF1/stages/stage3p.json
+mods/FNAF1/stages/stage3p.lua
+mods/FNAF1/custom_events/foxyj1-remove.lua
+mods/FNAF1/custom_events/foxyj1.lua
+mods/FNAF1/custom_events/black-remove.lua
+mods/FNAF1/custom_events/play.lua
+mods/FNAF1/custom_events/rain.lua
+mods/FNAF1/custom_events/thunder.lua
+mods/FNAF1/custom_events/cannon dodge.lua
+mods/FNAF1/custom_events/play-remove.lua
+mods/FNAF1/custom_events/black.lua
+mods/FNAF1/scripts/PrecacheImages.lua
+mods/FNAF1/sounds/shoot.ogg
+mods/songs/lost-at-sea/Voices.ogg
+mods/songs/lost-at-sea/voices.ogg
+mods/songs/lost-at-sea/Inst.ogg
+mods/songs/lost-at-sea/inst.ogg

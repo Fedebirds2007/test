@@ -1,0 +1,21 @@
+mods/data/chips-ahoyeth/beat go brr.lua
+mods/data/chips-ahoyeth/BLACK SCREEN.lua
+mods/data/chips-ahoyeth/chips-ahoyeth-easy.json
+mods/data/chips-ahoyeth/chips-ahoyeth-hard.json
+mods/data/chips-ahoyeth/chips-ahoyeth.json
+mods/data/chips-ahoyeth/mod.txt
+mods/data/chips-ahoyeth/queen2.lua
+mods/data/chips-ahoyeth/ratingNames.lua
+mods/Deltarune/stages/acidriver.json
+mods/Deltarune/stages/acidriver.lua
+mods/Deltarune/custom_events/Cam Zoom Tween.lua
+mods/Deltarune/scripts/accuracy.lua
+mods/Deltarune/scripts/bf_death.lua
+mods/Deltarune/scripts/iconChange.lua
+mods/Deltarune/scripts/PrecacheImages.lua
+mods/Deltarune/scripts/ThetaUI.lua
+mods/Deltarune/scripts/timeBar.lua
+mods/songs/chips-ahoyeth/Voices.ogg
+mods/songs/chips-ahoyeth/voices.ogg
+mods/songs/chips-ahoyeth/Inst.ogg
+mods/songs/chips-ahoyeth/inst.ogg

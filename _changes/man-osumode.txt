@@ -1,0 +1,11 @@
+mods/data/man/crash.lua
+mods/data/man/man-easy.json
+mods/data/man/mod.txt
+mods/data/man/ratingNames.lua
+mods/Deltarune/stages/man.json
+mods/Deltarune/stages/man.lua
+mods/Deltarune/scripts/bf_death.lua
+mods/Deltarune/scripts/iconChange.lua
+mods/Deltarune/scripts/PrecacheImages.lua
+mods/songs/man/Inst.ogg
+mods/songs/man/inst.ogg

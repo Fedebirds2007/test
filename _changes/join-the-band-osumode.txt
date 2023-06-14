@@ -1,0 +1,16 @@
+mods/data/join-the-band/bar.lua
+mods/data/join-the-band/blackbar.lua
+mods/data/join-the-band/cameraMovement.lua
+mods/data/join-the-band/cutscene.lua
+mods/data/join-the-band/events.json
+mods/data/join-the-band/join-the-band-hard.json
+mods/data/join-the-band/mod.txt
+mods/data/join-the-band/script.lua
+mods/FNAF2/stages/stagetf.json
+mods/FNAF2/stages/stagetf.lua
+mods/FNAF2/custom_events/zoom.lua
+mods/FNAF2/scripts/PrecacheImages.lua
+mods/songs/join-the-band/Voices.ogg
+mods/songs/join-the-band/voices.ogg
+mods/songs/join-the-band/Inst.ogg
+mods/songs/join-the-band/inst.ogg

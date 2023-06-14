@@ -1,0 +1,20 @@
+mods/data/tetris/events.json
+mods/data/tetris/mod.txt
+mods/data/tetris/tetris-hard.json
+mods/data/tetris/tetris.json
+mods/ArcadeShowdown/stages/arcadecrowd3.json
+mods/ArcadeShowdown/stages/arcadecrowd3.lua
+mods/ArcadeShowdown/custom_events/Note Fade.lua
+mods/ArcadeShowdown/custom_events/Toggle Trail.lua
+mods/ArcadeShowdown/custom_events/Cinematic_Bars.lua
+mods/ArcadeShowdown/custom_events/HudGone.lua
+mods/ArcadeShowdown/custom_events/Camera Switch.lua
+mods/ArcadeShowdown/scripts/accuracy.lua
+mods/ArcadeShowdown/scripts/screenBeat.lua
+mods/ArcadeShowdown/scripts/ThetaUI.lua
+mods/ArcadeShowdown/scripts/timeBar.lua
+mods/ArcadeShowdown/scripts/titlestuff.lua
+mods/songs/tetris/Voices.ogg
+mods/songs/tetris/voices.ogg
+mods/songs/tetris/Inst.ogg
+mods/songs/tetris/inst.ogg

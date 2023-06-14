@@ -1,0 +1,16 @@
+mods/data/freddy-fartbear/bar.lua
+mods/data/freddy-fartbear/death.lua
+mods/data/freddy-fartbear/events.json
+mods/data/freddy-fartbear/freddy-fartbear-hard.json
+mods/data/freddy-fartbear/mod.txt
+mods/data/freddy-fartbear/notresponding.lua
+mods/data/freddy-fartbear/window.lua
+mods/FNAF2/stages/fart.json
+mods/FNAF2/stages/fart.lua
+mods/FNAF2/custom_events/fadein.lua
+mods/FNAF2/custom_events/addimage.lua
+mods/FNAF2/custom_events/fadeout.lua
+mods/FNAF2/custom_events/zoom.lua
+mods/FNAF2/scripts/PrecacheImages.lua
+mods/songs/freddy-fartbear/Inst.ogg
+mods/songs/freddy-fartbear/inst.ogg

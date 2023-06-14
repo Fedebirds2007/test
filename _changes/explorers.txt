@@ -1,0 +1,15 @@
+mods/data/explorers/explorers-easy.json
+mods/data/explorers/explorers-hard.json
+mods/data/explorers/explorers.json
+mods/data/explorers/mod.txt
+mods/FP Custom/stages/arcadecustom.json
+mods/FP Custom/stages/arcadecustom.lua
+mods/FP Custom/scripts/accuracy.lua
+mods/FP Custom/scripts/Cinematic_Bars.lua
+mods/FP Custom/scripts/screenBeat.lua
+mods/FP Custom/scripts/ThetaUI.lua
+mods/FP Custom/scripts/timeBar.lua
+mods/FP Custom/scripts/titlestuff.lua
+mods/FP Custom/images/arcade custom.png
+mods/songs/explorers/Inst.ogg
+mods/songs/explorers/inst.ogg

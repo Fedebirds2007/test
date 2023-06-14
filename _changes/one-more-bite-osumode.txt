@@ -1,0 +1,20 @@
+mods/data/one-more-bite/events.json
+mods/data/one-more-bite/jumpscare.lua
+mods/data/one-more-bite/mod.txt
+mods/data/one-more-bite/one-more-bite-easy.json
+mods/data/one-more-bite/one-more-bite-hard.json
+mods/data/one-more-bite/one-more-bite.json
+mods/FNAF1/stages/stage3c.json
+mods/FNAF1/stages/stage3c.lua
+mods/FNAF1/custom_notetypes/cupcake Note.lua
+mods/FNAF1/custom_notetypes/pizza Note.lua
+mods/FNAF1/custom_notetypes/eat Note.lua
+mods/FNAF1/custom_events/black-remove.lua
+mods/FNAF1/scripts/PrecacheImages.lua
+mods/FNAF1/sounds/pizza.ogg
+mods/FNAF1/sounds/eat.ogg
+mods/FNAF1/sounds/pizza-loss.ogg
+mods/songs/one-more-bite/Voices.ogg
+mods/songs/one-more-bite/voices.ogg
+mods/songs/one-more-bite/Inst.ogg
+mods/songs/one-more-bite/inst.ogg

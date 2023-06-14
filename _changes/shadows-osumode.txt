@@ -1,0 +1,18 @@
+mods/data/shadows/bar.lua
+mods/data/shadows/blackbar.lua
+mods/data/shadows/cameraMovement.lua
+mods/data/shadows/events.json
+mods/data/shadows/mod.txt
+mods/data/shadows/shadows-hard.json
+mods/data/shadows/window.lua
+mods/FNAF2/stages/stagesb.json
+mods/FNAF2/stages/stagesb.lua
+mods/FNAF2/custom_events/fadein.lua
+mods/FNAF2/custom_events/addanimimage.lua
+mods/FNAF2/custom_events/fadeout.lua
+mods/FNAF2/custom_events/remove image.lua
+mods/FNAF2/scripts/PrecacheImages.lua
+mods/songs/shadows/Voices.ogg
+mods/songs/shadows/voices.ogg
+mods/songs/shadows/Inst.ogg
+mods/songs/shadows/inst.ogg

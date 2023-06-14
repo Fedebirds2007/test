@@ -1,0 +1,30 @@
+mods/data/all-stars/all-stars-bonus.json
+mods/data/all-stars/all-stars-easy.json
+mods/data/all-stars/all-stars-hard.json
+mods/data/all-stars/all-stars.json
+mods/data/all-stars/bf_death.lua
+mods/data/all-stars/mod.txt
+mods/data/all-stars/PressF1ForHelp.lua
+mods/data/all-stars/queen2.lua
+mods/data/all-stars/see better smiley face.lua
+mods/Deltarune/stages/allstars.json
+mods/Deltarune/stages/allstars.lua
+mods/Deltarune/custom_notetypes/ribbon.lua
+mods/Deltarune/custom_notetypes/spam.lua
+mods/Deltarune/custom_notetypes/shield.lua
+mods/Deltarune/custom_events/Susie Attack.lua
+mods/Deltarune/scripts/accuracy.lua
+mods/Deltarune/scripts/bf_death.lua
+mods/Deltarune/scripts/iconChange.lua
+mods/Deltarune/scripts/PrecacheImages.lua
+mods/Deltarune/scripts/ThetaUI.lua
+mods/Deltarune/scripts/timeBar.lua
+mods/Deltarune/sounds/RibbonSound.ogg
+mods/Deltarune/sounds/bigshot.ogg
+mods/Deltarune/sounds/BOOM.ogg
+mods/Deltarune/sounds/hurt.ogg
+mods/Deltarune/sounds/defend.ogg
+mods/songs/all-stars/Voices.ogg
+mods/songs/all-stars/voices.ogg
+mods/songs/all-stars/Inst.ogg
+mods/songs/all-stars/inst.ogg

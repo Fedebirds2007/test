@@ -1,0 +1,17 @@
+mods/data/lucrative/cameramovelol.lua
+mods/data/lucrative/Fadeout.lua
+mods/data/lucrative/lucrative.json
+mods/data/lucrative/mod.txt
+mods/Mr.Beast/characters/jimmy.json
+mods/Mr.Beast/stages/beastbg.json
+mods/Mr.Beast/stages/beastbg.lua
+mods/Mr.Beast/images/characters/mrbeast.png
+mods/Mr.Beast/images/characters/mrbeast.xml
+mods/Mr.Beast/scripts/accuracy.lua
+mods/Mr.Beast/scripts/ThetaUI.lua
+mods/Mr.Beast/scripts/timeBar.lua
+mods/Mr.Beast/images/beast/beastbg.png
+mods/songs/lucrative/Voices.ogg
+mods/songs/lucrative/voices.ogg
+mods/songs/lucrative/Inst.ogg
+mods/songs/lucrative/inst.ogg

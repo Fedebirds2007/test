@@ -1,0 +1,14 @@
+mods/data/death_by_glamour/death_by_glamour-easy.json
+mods/data/death_by_glamour/death_by_glamour-hard.json
+mods/data/death_by_glamour/death_by_glamour.json
+mods/data/death_by_glamour/mod.txt
+mods/FP Custom/stages/mettaton.json
+mods/FP Custom/stages/mettaton.lua
+mods/FP Custom/scripts/accuracy.lua
+mods/FP Custom/scripts/Cinematic_Bars.lua
+mods/FP Custom/scripts/screenBeat.lua
+mods/FP Custom/scripts/ThetaUI.lua
+mods/FP Custom/scripts/timeBar.lua
+mods/FP Custom/scripts/titlestuff.lua
+mods/songs/death_by_glamour/Inst.ogg
+mods/songs/death_by_glamour/inst.ogg

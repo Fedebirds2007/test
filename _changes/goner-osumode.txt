@@ -1,0 +1,26 @@
+mods/data/goner/bf_death.lua
+mods/data/goner/dialogue script.lua
+mods/data/goner/goner-easy.json
+mods/data/goner/goner-hard.json
+mods/data/goner/goner.json
+mods/data/goner/healthdrain.lua
+mods/data/goner/mod.txt
+mods/data/goner/perlinCam (1).lua
+mods/data/goner/post-dialogue.lua
+mods/data/goner/Shake_Da_Fuckin_Notes.lua
+mods/Deltarune/stages/goner.json
+mods/Deltarune/stages/goner.lua
+mods/Deltarune/custom_notetypes/invisNotes.lua
+mods/Deltarune/custom_notetypes/darkNotes.lua
+mods/Deltarune/custom_events/lyrics.lua
+mods/Deltarune/custom_events/Set Song Length.lua
+mods/Deltarune/scripts/accuracy.lua
+mods/Deltarune/scripts/bf_death.lua
+mods/Deltarune/scripts/iconChange.lua
+mods/Deltarune/scripts/PrecacheImages.lua
+mods/Deltarune/scripts/ThetaUI.lua
+mods/Deltarune/scripts/timeBar.lua
+mods/songs/goner/Voices.ogg
+mods/songs/goner/voices.ogg
+mods/songs/goner/Inst.ogg
+mods/songs/goner/inst.ogg

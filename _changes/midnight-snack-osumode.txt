@@ -1,0 +1,13 @@
+mods/data/midnight-snack/cameraMovement.lua
+mods/data/midnight-snack/events.json
+mods/data/midnight-snack/midnight-snack-easy.json
+mods/data/midnight-snack/midnight-snack-hard.json
+mods/data/midnight-snack/midnight-snack.json
+mods/data/midnight-snack/mod.txt
+mods/FNAF1/stages/stage1c.json
+mods/FNAF1/stages/stage1c.lua
+mods/FNAF1/scripts/PrecacheImages.lua
+mods/songs/midnight-snack/Voices.ogg
+mods/songs/midnight-snack/voices.ogg
+mods/songs/midnight-snack/Inst.ogg
+mods/songs/midnight-snack/inst.ogg

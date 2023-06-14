@@ -1,0 +1,22 @@
+mods/data/boingo-doo/beat go brr.lua
+mods/data/boingo-doo/boingo-doo-hard.json
+mods/data/boingo-doo/heal.lua
+mods/data/boingo-doo/healthdrain.lua
+mods/data/boingo-doo/mod.txt
+mods/data/boingo-doo/shaggy.lua
+mods/Deltarune/stages/clown.json
+mods/Deltarune/stages/clown.lua
+mods/Deltarune/custom_notetypes/Susie Sing.lua
+mods/Deltarune/custom_notetypes/invisNotes.lua
+mods/Deltarune/custom_events/lyrics.lua
+mods/Deltarune/custom_events/Cam Zoom Tween.lua
+mods/Deltarune/scripts/accuracy.lua
+mods/Deltarune/scripts/bf_death.lua
+mods/Deltarune/scripts/iconChange.lua
+mods/Deltarune/scripts/PrecacheImages.lua
+mods/Deltarune/scripts/ThetaUI.lua
+mods/Deltarune/scripts/timeBar.lua
+mods/songs/boingo-doo/Voices.ogg
+mods/songs/boingo-doo/voices.ogg
+mods/songs/boingo-doo/Inst.ogg
+mods/songs/boingo-doo/inst.ogg

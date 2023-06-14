@@ -1,0 +1,12 @@
+mods/data/beatbox/beatbox-easy.json
+mods/data/beatbox/beatbox-hard.json
+mods/data/beatbox/beatbox.json
+mods/data/beatbox/cameraMovement.lua
+mods/data/beatbox/mod.txt
+mods/FNAF1/stages/beat.json
+mods/FNAF1/stages/beat.lua
+mods/FNAF1/scripts/PrecacheImages.lua
+mods/songs/beatbox/Voices.ogg
+mods/songs/beatbox/voices.ogg
+mods/songs/beatbox/Inst.ogg
+mods/songs/beatbox/inst.ogg

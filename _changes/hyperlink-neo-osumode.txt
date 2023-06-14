@@ -1,0 +1,33 @@
+mods/data/hyperlink-neo/beat go brr.lua
+mods/data/hyperlink-neo/CamMovement.lua
+mods/data/hyperlink-neo/events.json
+mods/data/hyperlink-neo/heal.lua
+mods/data/hyperlink-neo/healthdrain.lua
+mods/data/hyperlink-neo/hyperlink-neo-hard.json
+mods/data/hyperlink-neo/hyperlink-neo-neo.json
+mods/data/hyperlink-neo/hyperlink-neo.json
+mods/data/hyperlink-neo/mod.txt
+mods/data/hyperlink-neo/perlinCam (1).lua
+mods/data/hyperlink-neo/PressF1ForHelp.lua
+mods/data/hyperlink-neo/ratingNames.lua
+mods/Deltarune/stages/NEO.json
+mods/Deltarune/stages/NEO.lua
+mods/Deltarune/custom_notetypes/spam.lua
+mods/Deltarune/custom_notetypes/shield.lua
+mods/Deltarune/custom_notetypes/Susie Sing neo.lua
+mods/Deltarune/custom_events/lyrics.lua
+mods/Deltarune/custom_events/Cam Zoom Tween.lua
+mods/Deltarune/scripts/accuracy.lua
+mods/Deltarune/scripts/bf_death.lua
+mods/Deltarune/scripts/iconChange.lua
+mods/Deltarune/scripts/PrecacheImages.lua
+mods/Deltarune/scripts/ThetaUI.lua
+mods/Deltarune/scripts/timeBar.lua
+mods/Deltarune/sounds/bigshot.ogg
+mods/Deltarune/sounds/BOOM.ogg
+mods/Deltarune/sounds/hurt.ogg
+mods/Deltarune/sounds/defend.ogg
+mods/songs/hyperlink-neo/Voices.ogg
+mods/songs/hyperlink-neo/voices.ogg
+mods/songs/hyperlink-neo/Inst.ogg
+mods/songs/hyperlink-neo/inst.ogg

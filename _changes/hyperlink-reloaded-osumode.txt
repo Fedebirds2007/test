@@ -1,0 +1,26 @@
+mods/data/hyperlink-reloaded/BLACK SCREEN.lua
+mods/data/hyperlink-reloaded/CamMovement.lua
+mods/data/hyperlink-reloaded/GameOverLines.lua
+mods/data/hyperlink-reloaded/healthdrain.lua
+mods/data/hyperlink-reloaded/hyperlink-reloaded-very-hard.json
+mods/data/hyperlink-reloaded/hyperlink-reloaded.json
+mods/data/hyperlink-reloaded/mod.txt
+mods/data/hyperlink-reloaded/PressF1ForHelp.lua
+mods/data/hyperlink-reloaded/ratingNames.lua
+mods/Deltarune/stages/neo2.json
+mods/Deltarune/stages/neo2.lua
+mods/Deltarune/custom_notetypes/shield.lua
+mods/Deltarune/custom_events/lyrics.lua
+mods/Deltarune/custom_events/Cam Zoom Tween.lua
+mods/Deltarune/scripts/accuracy.lua
+mods/Deltarune/scripts/bf_death.lua
+mods/Deltarune/scripts/iconChange.lua
+mods/Deltarune/scripts/PrecacheImages.lua
+mods/Deltarune/scripts/ThetaUI.lua
+mods/Deltarune/scripts/timeBar.lua
+mods/Deltarune/sounds/hurt.ogg
+mods/Deltarune/sounds/defend.ogg
+mods/songs/hyperlink-reloaded/Voices.ogg
+mods/songs/hyperlink-reloaded/voices.ogg
+mods/songs/hyperlink-reloaded/Inst.ogg
+mods/songs/hyperlink-reloaded/inst.ogg

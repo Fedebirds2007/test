@@ -1,0 +1,29 @@
+mods/data/smile-award/CamMovement.lua
+mods/data/smile-award/dialogue script.lua
+mods/data/smile-award/GameOverLines.lua
+mods/data/smile-award/heal.lua
+mods/data/smile-award/healthdrain.lua
+mods/data/smile-award/mod.txt
+mods/data/smile-award/post-dialogue.lua
+mods/data/smile-award/ratingNames.lua
+mods/data/smile-award/smile-award-happy.json
+mods/data/smile-award/smile-award-hard.json
+mods/Deltarune/stages/Smile.json
+mods/Deltarune/stages/Smile.lua
+mods/Deltarune/custom_notetypes/Susie Sing.lua
+mods/Deltarune/custom_notetypes/ribbon.lua
+mods/Deltarune/custom_notetypes/shield.lua
+mods/Deltarune/custom_events/Cam Zoom Tween.lua
+mods/Deltarune/scripts/accuracy.lua
+mods/Deltarune/scripts/bf_death.lua
+mods/Deltarune/scripts/iconChange.lua
+mods/Deltarune/scripts/PrecacheImages.lua
+mods/Deltarune/scripts/ThetaUI.lua
+mods/Deltarune/scripts/timeBar.lua
+mods/Deltarune/sounds/RibbonSound.ogg
+mods/Deltarune/sounds/hurt.ogg
+mods/Deltarune/sounds/defend.ogg
+mods/songs/smile-award/Voices.ogg
+mods/songs/smile-award/voices.ogg
+mods/songs/smile-award/Inst.ogg
+mods/songs/smile-award/inst.ogg

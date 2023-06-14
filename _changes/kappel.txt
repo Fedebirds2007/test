@@ -1,0 +1,39 @@
+mods/data/kappel/events.json
+mods/data/kappel/kappel-easy.json
+mods/data/kappel/kappel-hard.json
+mods/data/kappel/kappel.json
+mods/data/kappel/mod.txt
+mods/ArcadeShowdown/characters/bf.json
+mods/ArcadeShowdown/characters/kapiangry.json
+mods/ArcadeShowdown/characters/KAPIGIRLFRIEND.json
+mods/ArcadeShowdown/stages/arcadecrowd3.json
+mods/ArcadeShowdown/stages/arcadecrowd3.lua
+mods/ArcadeShowdown/images/characters/KAPI_ANGRY.png
+mods/ArcadeShowdown/images/characters/KAPI_ANGRY.xml
+mods/ArcadeShowdown/images/characters/KAPIGIRLFRIEND.png
+mods/ArcadeShowdown/images/characters/KAPIGIRLFRIEND.xml
+mods/ArcadeShowdown/custom_events/invert controls.lua
+mods/ArcadeShowdown/custom_events/Flash.lua
+mods/ArcadeShowdown/custom_events/Flash Camera.lua
+mods/ArcadeShowdown/custom_events/Change Botplay Text.lua
+mods/ArcadeShowdown/custom_events/Set Cam Zoom.lua
+mods/ArcadeShowdown/custom_events/Camera Switch.lua
+mods/ArcadeShowdown/custom_events/Cam Boom Speed.lua
+mods/ArcadeShowdown/scripts/accuracy.lua
+mods/ArcadeShowdown/scripts/screenBeat.lua
+mods/ArcadeShowdown/scripts/ThetaUI.lua
+mods/ArcadeShowdown/scripts/timeBar.lua
+mods/ArcadeShowdown/scripts/titlestuff.lua
+mods/ArcadeShowdown/images/closed.png
+mods/ArcadeShowdown/images/floor-arcade.png
+mods/ArcadeShowdown/images/s&p.png
+mods/ArcadeShowdown/images/s&p.xml
+mods/ArcadeShowdown/images/crowd2.png
+mods/ArcadeShowdown/images/crowd2.xml
+mods/ArcadeShowdown/images/crowd1.png
+mods/ArcadeShowdown/images/crowd1.xml
+mods/ArcadeShowdown/images/flash.png
+mods/songs/kappel/Voices.ogg
+mods/songs/kappel/voices.ogg
+mods/songs/kappel/Inst.ogg
+mods/songs/kappel/inst.ogg

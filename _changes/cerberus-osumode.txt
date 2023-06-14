@@ -1,0 +1,17 @@
+mods/data/cerberus/bar.lua
+mods/data/cerberus/blackbar.lua
+mods/data/cerberus/cameraMovement.lua
+mods/data/cerberus/cerberus-hard.json
+mods/data/cerberus/events.json
+mods/data/cerberus/mod.txt
+mods/FNAF2/stages/stagem.json
+mods/FNAF2/stages/stagem.lua
+mods/FNAF2/custom_events/Add Animated Overlay.lua
+mods/FNAF2/custom_events/fadeout.lua
+mods/FNAF2/custom_events/zoom.lua
+mods/FNAF2/custom_events/black.lua
+mods/FNAF2/scripts/PrecacheImages.lua
+mods/songs/cerberus/Voices.ogg
+mods/songs/cerberus/voices.ogg
+mods/songs/cerberus/Inst.ogg
+mods/songs/cerberus/inst.ogg

@@ -1,0 +1,14 @@
+mods/data/power-outage/cameraMovement.lua
+mods/data/power-outage/events.json
+mods/data/power-outage/mod.txt
+mods/data/power-outage/power-outage-easy.json
+mods/data/power-outage/power-outage-hard.json
+mods/data/power-outage/power-outage.json
+mods/FNAF1/stages/stagep.json
+mods/FNAF1/stages/stagep.lua
+mods/FNAF1/custom_events/black.lua
+mods/FNAF1/scripts/PrecacheImages.lua
+mods/songs/power-outage/Voices.ogg
+mods/songs/power-outage/voices.ogg
+mods/songs/power-outage/Inst.ogg
+mods/songs/power-outage/inst.ogg

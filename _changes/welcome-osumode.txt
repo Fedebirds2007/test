@@ -1,0 +1,8 @@
+mods/data/welcome/death.lua
+mods/data/welcome/mod.txt
+mods/data/welcome/welcome-hard.json
+mods/FNAF2/stages/welcum.json
+mods/FNAF2/stages/welcum.lua
+mods/FNAF2/scripts/PrecacheImages.lua
+mods/songs/welcome/Inst.ogg
+mods/songs/welcome/inst.ogg

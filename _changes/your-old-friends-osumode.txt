@@ -1,0 +1,19 @@
+mods/data/your-old-friends/bar.lua
+mods/data/your-old-friends/blackbar.lua
+mods/data/your-old-friends/cameraMovement.lua
+mods/data/your-old-friends/events.json
+mods/data/your-old-friends/mod.txt
+mods/data/your-old-friends/your-old-friends-hard.json
+mods/FNAF2/stages/stageyof.json
+mods/FNAF2/stages/stageyof.lua
+mods/FNAF2/custom_events/addimagebehindui.lua
+mods/FNAF2/custom_events/fadein.lua
+mods/FNAF2/custom_events/fadeout.lua
+mods/FNAF2/custom_events/addimage.lua
+mods/FNAF2/custom_events/zoom.lua
+mods/FNAF2/custom_events/remove image.lua
+mods/FNAF2/scripts/PrecacheImages.lua
+mods/songs/your-old-friends/Voices.ogg
+mods/songs/your-old-friends/voices.ogg
+mods/songs/your-old-friends/Inst.ogg
+mods/songs/your-old-friends/inst.ogg

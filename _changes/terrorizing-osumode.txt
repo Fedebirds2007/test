@@ -1,0 +1,12 @@
+mods/data/terrorizing/cameraMovement.lua
+mods/data/terrorizing/mod.txt
+mods/data/terrorizing/terrorizing-easy.json
+mods/data/terrorizing/terrorizing-hard.json
+mods/data/terrorizing/terrorizing.json
+mods/FNAF1/stages/stage2b.json
+mods/FNAF1/stages/stage2b.lua
+mods/FNAF1/scripts/PrecacheImages.lua
+mods/songs/terrorizing/Voices.ogg
+mods/songs/terrorizing/voices.ogg
+mods/songs/terrorizing/Inst.ogg
+mods/songs/terrorizing/inst.ogg

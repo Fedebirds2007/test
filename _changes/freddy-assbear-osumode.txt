@@ -1,0 +1,14 @@
+mods/data/freddy-assbear/cameraMovement.lua
+mods/data/freddy-assbear/events.json
+mods/data/freddy-assbear/freddy-assbear-easy.json
+mods/data/freddy-assbear/freddy-assbear-hard.json
+mods/data/freddy-assbear/freddy-assbear.json
+mods/data/freddy-assbear/jumpscare.lua
+mods/data/freddy-assbear/mod.txt
+mods/FNAF1/stages/stage1f.json
+mods/FNAF1/stages/stage1f.lua
+mods/FNAF1/scripts/PrecacheImages.lua
+mods/songs/freddy-assbear/Voices.ogg
+mods/songs/freddy-assbear/voices.ogg
+mods/songs/freddy-assbear/Inst.ogg
+mods/songs/freddy-assbear/inst.ogg

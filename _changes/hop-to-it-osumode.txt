@@ -1,0 +1,20 @@
+mods/data/hop-to-it/bar.lua
+mods/data/hop-to-it/blackbar.lua
+mods/data/hop-to-it/cameraMovement.lua
+mods/data/hop-to-it/events.json
+mods/data/hop-to-it/hop-to-it-hard.json
+mods/data/hop-to-it/mod.txt
+mods/FNAF2/stages/stagetb.json
+mods/FNAF2/stages/stagetb.lua
+mods/FNAF2/custom_events/fadein.lua
+mods/FNAF2/custom_events/addanimimage.lua
+mods/FNAF2/custom_events/addimage.lua
+mods/FNAF2/custom_events/fadeout.lua
+mods/FNAF2/custom_events/zoom.lua
+mods/FNAF2/custom_events/remove image.lua
+mods/FNAF2/custom_events/black.lua
+mods/FNAF2/scripts/PrecacheImages.lua
+mods/songs/hop-to-it/Voices.ogg
+mods/songs/hop-to-it/voices.ogg
+mods/songs/hop-to-it/Inst.ogg
+mods/songs/hop-to-it/inst.ogg

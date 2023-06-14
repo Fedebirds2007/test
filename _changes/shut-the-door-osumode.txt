@@ -1,0 +1,16 @@
+mods/data/shut-the-door/cameraMovement.lua
+mods/data/shut-the-door/mod.txt
+mods/data/shut-the-door/shut-the-door-easy.json
+mods/data/shut-the-door/shut-the-door-hard.json
+mods/data/shut-the-door/shut-the-door.json
+mods/FNAF1/stages/stage3b.json
+mods/FNAF1/stages/stage3b.lua
+mods/FNAF1/custom_notetypes/Door.lua
+mods/FNAF1/custom_events/black.lua
+mods/FNAF1/scripts/PrecacheImages.lua
+mods/FNAF1/sounds/Door.ogg
+mods/FNAF1/sounds/jump.ogg
+mods/songs/shut-the-door/Voices.ogg
+mods/songs/shut-the-door/voices.ogg
+mods/songs/shut-the-door/Inst.ogg
+mods/songs/shut-the-door/inst.ogg

@@ -1,0 +1,13 @@
+mods/data/billionaires/billionaires.json
+mods/data/billionaires/cameramovelol.lua
+mods/data/billionaires/Fadeout.lua
+mods/data/billionaires/mod.txt
+mods/Mr.Beast/stages/beastbg.json
+mods/Mr.Beast/stages/beastbg.lua
+mods/Mr.Beast/scripts/accuracy.lua
+mods/Mr.Beast/scripts/ThetaUI.lua
+mods/Mr.Beast/scripts/timeBar.lua
+mods/songs/billionaires/Voices.ogg
+mods/songs/billionaires/voices.ogg
+mods/songs/billionaires/Inst.ogg
+mods/songs/billionaires/inst.ogg

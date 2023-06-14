@@ -1,0 +1,38 @@
+mods/data/tetris/events.json
+mods/ArcadeShowdown/characters/blackout.json
+mods/ArcadeShowdown/images/characters/deeznutz.png
+mods/ArcadeShowdown/images/characters/deeznutz.xml
+mods/data/tetris/mod.txt
+mods/data/tetris/tetris-hard.json
+mods/data/tetris/tetris.json
+mods/ArcadeShowdown/characters/bf.json
+mods/ArcadeShowdown/characters/kapiangry.json
+mods/ArcadeShowdown/characters/paperkitty.json
+mods/ArcadeShowdown/stages/arcadecrowd3.json
+mods/ArcadeShowdown/stages/arcadecrowd3.lua
+mods/ArcadeShowdown/images/characters/KAPI_ANGRY.png
+mods/ArcadeShowdown/images/characters/KAPI_ANGRY.xml
+mods/ArcadeShowdown/images/characters/paperkitty.png
+mods/ArcadeShowdown/images/characters/paperkitty.xml
+mods/ArcadeShowdown/custom_events/Note Fade.lua
+mods/ArcadeShowdown/custom_events/Toggle Trail.lua
+mods/ArcadeShowdown/custom_events/Cinematic_Bars.lua
+mods/ArcadeShowdown/custom_events/HudGone.lua
+mods/ArcadeShowdown/custom_events/Camera Switch.lua
+mods/ArcadeShowdown/scripts/accuracy.lua
+mods/ArcadeShowdown/scripts/screenBeat.lua
+mods/ArcadeShowdown/scripts/ThetaUI.lua
+mods/ArcadeShowdown/scripts/timeBar.lua
+mods/ArcadeShowdown/scripts/titlestuff.lua
+mods/ArcadeShowdown/images/closed.png
+mods/ArcadeShowdown/images/floor-arcade.png
+mods/ArcadeShowdown/images/s&p.png
+mods/ArcadeShowdown/images/s&p.xml
+mods/ArcadeShowdown/images/crowd2.png
+mods/ArcadeShowdown/images/crowd2.xml
+mods/ArcadeShowdown/images/crowd1.png
+mods/ArcadeShowdown/images/crowd1.xml
+mods/songs/tetris/Voices.ogg
+mods/songs/tetris/voices.ogg
+mods/songs/tetris/Inst.ogg
+mods/songs/tetris/inst.ogg

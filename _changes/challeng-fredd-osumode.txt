@@ -1,0 +1,22 @@
+mods/data/challeng-fredd/bar.lua
+mods/data/challeng-fredd/blackbar.lua
+mods/data/challeng-fredd/cameraMovement.lua
+mods/data/challeng-fredd/challeng-fredd-hard.json
+mods/data/challeng-fredd/events.json
+mods/data/challeng-fredd/mod.txt
+mods/data/challeng-fredd/script.lua
+mods/data/challeng-fredd/static.lua
+mods/FNAF2/stages/stagetfc.json
+mods/FNAF2/stages/stagetfc.lua
+mods/FNAF2/custom_notetypes/Rocket Note.lua
+mods/FNAF2/custom_notetypes/Special Sing.lua
+mods/FNAF2/custom_notetypes/Opponent Sing.lua
+mods/FNAF2/custom_events/fadein.lua
+mods/FNAF2/custom_events/fadeout.lua
+mods/FNAF2/custom_events/zoom.lua
+mods/FNAF2/custom_events/black.lua
+mods/FNAF2/scripts/PrecacheImages.lua
+mods/songs/challeng-fredd/Voices.ogg
+mods/songs/challeng-fredd/voices.ogg
+mods/songs/challeng-fredd/Inst.ogg
+mods/songs/challeng-fredd/inst.ogg

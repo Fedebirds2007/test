@@ -1,0 +1,19 @@
+mods/data/fallen-star/bar.lua
+mods/data/fallen-star/blackbar.lua
+mods/data/fallen-star/cameraMovement.lua
+mods/data/fallen-star/events.json
+mods/data/fallen-star/fallen-star-hard.json
+mods/data/fallen-star/mod.txt
+mods/FNAF2/stages/stagewf.json
+mods/FNAF2/stages/stagewf.lua
+mods/FNAF2/custom_events/addanimimage.lua
+mods/FNAF2/custom_events/fadein.lua
+mods/FNAF2/custom_events/addimage.lua
+mods/FNAF2/custom_events/fadeout.lua
+mods/FNAF2/custom_events/remove image.lua
+mods/FNAF2/custom_events/black.lua
+mods/FNAF2/scripts/PrecacheImages.lua
+mods/songs/fallen-star/Voices.ogg
+mods/songs/fallen-star/voices.ogg
+mods/songs/fallen-star/Inst.ogg
+mods/songs/fallen-star/inst.ogg

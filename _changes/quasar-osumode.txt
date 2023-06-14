@@ -1,0 +1,15 @@
+mods/data/quasar/mod.txt
+mods/data/quasar/quasar-easy.json
+mods/data/quasar/quasar-hard.json
+mods/data/quasar/quasar.json
+mods/KOU/stages/koustage2.json
+mods/KOU/stages/koustage2.lua
+mods/KOU/scripts/accuracy.lua
+mods/KOU/scripts/screenBeat.lua
+mods/KOU/scripts/ThetaUI.lua
+mods/KOU/scripts/timeBar.lua
+mods/KOU/scripts/titlestuff.lua
+mods/songs/quasar/Voices.ogg
+mods/songs/quasar/voices.ogg
+mods/songs/quasar/Inst.ogg
+mods/songs/quasar/inst.ogg

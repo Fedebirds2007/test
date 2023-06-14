@@ -1,0 +1,23 @@
+mods/data/flashing-lights/bar.lua
+mods/data/flashing-lights/blackbar.lua
+mods/data/flashing-lights/cameraMovement.lua
+mods/data/flashing-lights/cutscene.lua
+mods/data/flashing-lights/death.lua
+mods/data/flashing-lights/events.json
+mods/data/flashing-lights/flashing-lights-hard.json
+mods/data/flashing-lights/mod.txt
+mods/data/flashing-lights/script.lua
+mods/FNAF2/stages/stagepup.json
+mods/FNAF2/stages/stagepup.lua
+mods/FNAF2/custom_events/addimagebehindui.lua
+mods/FNAF2/custom_events/fadein.lua
+mods/FNAF2/custom_events/addimage.lua
+mods/FNAF2/custom_events/fadeout.lua
+mods/FNAF2/custom_events/zoom.lua
+mods/FNAF2/custom_events/remove image.lua
+mods/FNAF2/custom_events/black.lua
+mods/FNAF2/scripts/PrecacheImages.lua
+mods/songs/flashing-lights/Voices.ogg
+mods/songs/flashing-lights/voices.ogg
+mods/songs/flashing-lights/Inst.ogg
+mods/songs/flashing-lights/inst.ogg

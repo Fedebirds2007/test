@@ -1,0 +1,15 @@
+mods/data/k.o.u/k.o.u-easy.json
+mods/data/k.o.u/k.o.u-hard.json
+mods/data/k.o.u/k.o.u.json
+mods/data/k.o.u/mod.txt
+mods/KOU/stages/koustage.json
+mods/KOU/stages/koustage.lua
+mods/KOU/scripts/accuracy.lua
+mods/KOU/scripts/screenBeat.lua
+mods/KOU/scripts/ThetaUI.lua
+mods/KOU/scripts/timeBar.lua
+mods/KOU/scripts/titlestuff.lua
+mods/songs/k.o.u/Voices.ogg
+mods/songs/k.o.u/voices.ogg
+mods/songs/k.o.u/Inst.ogg
+mods/songs/k.o.u/inst.ogg

@@ -1,0 +1,15 @@
+mods/data/twinkle/mod.txt
+mods/data/twinkle/twinkle-easy.json
+mods/data/twinkle/twinkle-hard.json
+mods/data/twinkle/twinkle.json
+mods/KOU/stages/koustage.json
+mods/KOU/stages/koustage.lua
+mods/KOU/scripts/accuracy.lua
+mods/KOU/scripts/screenBeat.lua
+mods/KOU/scripts/ThetaUI.lua
+mods/KOU/scripts/timeBar.lua
+mods/KOU/scripts/titlestuff.lua
+mods/songs/twinkle/Voices.ogg
+mods/songs/twinkle/voices.ogg
+mods/songs/twinkle/Inst.ogg
+mods/songs/twinkle/inst.ogg

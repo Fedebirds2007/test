@@ -1,0 +1,53 @@
+mods/data/rummager/cameraMovement.lua
+mods/data/rummager/events.json
+mods/data/rummager/jumpscare.lua
+mods/data/rummager/mod.txt
+mods/data/rummager/rummager-easy.json
+mods/data/rummager/rummager-hard.json
+mods/data/rummager/rummager.json
+mods/data/rummager/script.lua
+mods/FNAF1/characters/bf3.json
+mods/FNAF1/characters/chica2.json
+mods/FNAF1/characters/gf2.json
+mods/FNAF1/stages/stage2c.json
+mods/FNAF1/stages/stage2c.lua
+mods/FNAF1/images/characters/bf3.png
+mods/FNAF1/images/characters/bf3.xml
+mods/FNAF1/images/characters/chica2.png
+mods/FNAF1/images/characters/chica2.xml
+mods/FNAF1/images/characters/gf2.png
+mods/FNAF1/images/characters/gf2.xml
+mods/FNAF1/custom_notetypes/bad pizza1.lua
+mods/FNAF1/custom_notetypes/bad pizza2.lua
+mods/FNAF1/custom_notetypes/bad pizza.lua
+mods/FNAF1/custom_notetypes/bad pizza3.lua
+mods/FNAF1/custom_notetypes/bad pizza4.lua
+mods/FNAF1/scripts/PrecacheImages.lua
+mods/FNAF1/images/chica2.png
+mods/FNAF1/images/BADPIZZANOTE_assets.png
+mods/FNAF1/images/BADPIZZANOTE_assets.xml
+mods/FNAF1/images/pizza2.png
+mods/FNAF1/sounds/pizzasplash.ogg
+mods/FNAF1/images/pizza3.png
+mods/FNAF1/images/pizza1.png
+mods/FNAF1/images/pizza4.png
+mods/FNAF1/images/pizza5.png
+mods/FNAF1/images/pizzaCounter.png
+mods/FNAF1/images/bonnie3frame.png
+mods/FNAF1/images/chica3.png
+mods/FNAF1/images/chica4.png
+mods/FNAF1/images/dodgewarn.png
+mods/FNAF1/images/dodgewarn2.png
+mods/FNAF1/images/foxy3-play.png
+mods/FNAF1/images/foxyj1.png
+mods/FNAF1/images/foxyj2.png
+mods/FNAF1/images/freddy2anims.png
+mods/FNAF1/images/jump.png
+mods/FNAF1/images/rain.png
+mods/FNAF1/images/thd.png
+mods/FNAF1/images/the-door.png
+mods/FNAF1/images/animbgc2.png
+mods/songs/rummager/Voices.ogg
+mods/songs/rummager/voices.ogg
+mods/songs/rummager/Inst.ogg
+mods/songs/rummager/inst.ogg

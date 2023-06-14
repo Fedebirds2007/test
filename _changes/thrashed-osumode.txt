@@ -1,0 +1,16 @@
+mods/data/thrashed/beat go brr.lua
+mods/data/thrashed/mod.txt
+mods/data/thrashed/thrashed-hard.json
+mods/data/thrashed/thrashed.json
+mods/Deltarune/stages/throsh.json
+mods/Deltarune/stages/throsh.lua
+mods/Deltarune/custom_notetypes/Lancer Sing.lua
+mods/Deltarune/custom_events/Cam Zoom Tween.lua
+mods/Deltarune/scripts/accuracy.lua
+mods/Deltarune/scripts/bf_death.lua
+mods/Deltarune/scripts/iconChange.lua
+mods/Deltarune/scripts/PrecacheImages.lua
+mods/Deltarune/scripts/ThetaUI.lua
+mods/Deltarune/scripts/timeBar.lua
+mods/songs/thrashed/Inst.ogg
+mods/songs/thrashed/inst.ogg

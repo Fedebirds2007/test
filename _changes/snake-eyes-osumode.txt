@@ -1,0 +1,33 @@
+mods/data/snake-eyes/cutscene.lua
+mods/data/snake-eyes/mod.txt
+mods/data/snake-eyes/snake-eyes-hard.json
+mods/data/snake-eyes/snake-eyes-hell.json
+mods/data/snake-eyes/snake-eyes-no-mechanics.json
+mods/Indie Cross/stages/cupheadStage.json
+mods/Indie Cross/stages/cupheadStage.lua
+mods/Indie Cross/scripts/accuracy.lua
+mods/Indie Cross/scripts/BendyBlackScreenEffect.lua
+mods/Indie Cross/scripts/cameraMovement.lua
+mods/Indie Cross/scripts/cameraShake.lua
+mods/Indie Cross/scripts/changeFont-Indie Cross.lua
+mods/Indie Cross/scripts/changeHealthBar-IndieCross.lua
+mods/Indie Cross/scripts/changeNoteSplash.lua
+mods/Indie Cross/scripts/frameAnimation.lua
+mods/Indie Cross/scripts/Hell-Difficuty-IC.lua
+mods/Indie Cross/scripts/IndieCrossCountDown.lua
+mods/Indie Cross/scripts/PiperStrickerScript.lua
+mods/Indie Cross/scripts/PrecacheImages.lua
+mods/Indie Cross/scripts/screenBeat.lua
+mods/Indie Cross/scripts/songNameBox.lua
+mods/Indie Cross/scripts/ThetaUI.lua
+mods/Indie Cross/scripts/timeBar.lua
+mods/Indie Cross/fonts/CupheadICFont.ttf
+mods/Indie Cross/fonts/BendyICFont.ttf
+mods/Indie Cross/fonts/SansICFont.ttf
+mods/Indie Cross/fonts/PapyrusICFont.ttf
+mods/Indie Cross/sounds/bendy/whoosh.ogg
+mods/Indie Cross/sounds/bendy/inked.ogg
+mods/songs/snake-eyes/Voices.ogg
+mods/songs/snake-eyes/voices.ogg
+mods/songs/snake-eyes/Inst.ogg
+mods/songs/snake-eyes/inst.ogg

@@ -1,0 +1,12 @@
+mods/data/the-slaughter/cameraMovement.lua
+mods/data/the-slaughter/mod.txt
+mods/data/the-slaughter/the-slaughter-easy.json
+mods/data/the-slaughter/the-slaughter-hard.json
+mods/data/the-slaughter/the-slaughter.json
+mods/FNAF1/stages/stage2f.json
+mods/FNAF1/stages/stage2f.lua
+mods/FNAF1/scripts/PrecacheImages.lua
+mods/songs/the-slaughter/Voices.ogg
+mods/songs/the-slaughter/voices.ogg
+mods/songs/the-slaughter/Inst.ogg
+mods/songs/the-slaughter/inst.ogg
