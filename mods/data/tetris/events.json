@@ -1,0 +1,289 @@
+{
+	"song": {
+		"speed": 2.7,
+		"stage": "arcadecrowd3",
+		"player1": "iiherosuper",
+		"player2": "kapiangry",
+		"player3": null,
+		"events": [
+			[
+				1500,
+				[
+					[
+						"Add Camera Zoom",
+						"0.015",
+						"0.03"
+					]
+				]
+			],
+			[
+				3000,
+				[
+					[
+						"Add Camera Zoom",
+						"0.015",
+						"0.03"
+					]
+				]
+			],
+			[
+				4500,
+				[
+					[
+						"Add Camera Zoom",
+						"0.015",
+						"0.03"
+					]
+				]
+			],
+			[
+				6000,
+				[
+					[
+						"Add Camera Zoom",
+						"0.015",
+						"0.03"
+					]
+				]
+			],
+			[
+				7500,
+				[
+					[
+						"Add Camera Zoom",
+						"0.015",
+						"0.03"
+					]
+				]
+			],
+			[
+				9000,
+				[
+					[
+						"Add Camera Zoom",
+						"0.015",
+						"0.03"
+					]
+				]
+			],
+			[
+				10500,
+				[
+					[
+						"Add Camera Zoom",
+						"0.015",
+						"0.03"
+					]
+				]
+			],
+			[
+				11500,
+				[
+					[
+						"Camera Switch",
+						"0.3",
+						"off"
+					]
+				]
+			],
+			[
+				12000,
+				[
+					[
+						"Camera Switch",
+						"0.01",
+						"on"
+					]
+				]
+			],
+			[
+				60000,
+				[
+					[
+						"Cinematic_Bars",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				65583.3333333334,
+				[
+					[
+						"Hey!",
+						"BF",
+						""
+					]
+				]
+			],
+			[
+				71333.3333333334,
+				[
+					[
+						"Cinematic_Bars",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				119666.666666667,
+				[
+					[
+						"Cinematic_Bars",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				142833.333333333,
+				[
+					[
+						"Add Camera Zoom",
+						"0.015",
+						"0.03"
+					]
+				]
+			],
+			[
+				142916.666666667,
+				[
+					[
+						"Add Camera Zoom",
+						"0.015",
+						"0.03"
+					]
+				]
+			],
+			[
+				143000,
+				[
+					[
+						"Add Camera Zoom",
+						"0.015",
+						"0.03"
+					]
+				]
+			],
+			[
+				143083.333333333,
+				[
+					[
+						"Add Camera Zoom",
+						"0.015",
+						"0.03"
+					]
+				]
+			],
+			[
+				143166.666666667,
+				[
+					[
+						"Add Camera Zoom",
+						"0.015",
+						"0.03"
+					]
+				]
+			],
+			[
+				143333.333333333,
+				[
+					[
+						"Add Camera Zoom",
+						"0.015",
+						"0.03"
+					]
+				]
+			],
+			[
+				143583.333333333,
+				[
+					[
+						"Add Camera Zoom",
+						"0.015",
+						"0.03"
+					]
+				]
+			],
+			[
+				144000,
+				[
+					[
+						"Toggle Trail",
+						"FFFFFF",
+						"FFFFFF"
+					]
+				]
+			],
+			[
+				167833.333333333,
+				[
+					[
+						"Toggle Trail",
+						"",
+						""
+					]
+				]
+			],
+			[
+				168000,
+				[
+					[
+						"Note Fade",
+						"1",
+						"0.2"
+					],
+					[
+						"Note Fade",
+						"2",
+						"0.2"
+					]
+				]
+			],
+			[
+				174666.666666667,
+				[
+					[
+						"Camera Switch",
+						"4",
+						"off"
+					]
+				]
+			],
+			[
+				180000,
+				[
+					[
+						"Change Character",
+						"0",
+						"blackout"
+					],
+					[
+						"HudGone",
+						"start",
+						""
+					]
+				]
+			],
+			[
+				180333.333333334,
+				[
+					[
+						"Camera Switch",
+						"0.01",
+						"on"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "paperkitty",
+		"bpm": 180,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Tetris"
+	}
+}

@@ -1,0 +1,14 @@
+--This is a comment left for the editor of turn
+@wait time="1s"
+@dialogue pos="L" portrait="sans" text="welcome to the underground"
+@dialogue pos="L" portrait="sans" text="how was your fall?" dbox="funny"
+@dialogue pos="L" portrait="sans" text="..." dbox="gay"
+@dialogue pos="L" portrait="sans" text="you know, i was hired to tear you to shreds" dbox="closed"
+@dialogue pos="L" portrait="sans" text="and spread those ashes across 6 different \nsuns." dbox="blind"
+@dialogue pos="L" portrait="sans" text="..." dbox="gay"
+@dialogue pos="L" portrait="sans" text="after a few rounds of rap battling..." dbox="wink"
+@dialogue pos="L" portrait="sans" text="for some reason..." dbox="funny"
+@dialogue pos="L" portrait="sans" text="ready yourself human." dbox="blind"
+
+
+

@@ -1,0 +1,29 @@
+{
+	"song": {
+		"speed": 2.7,
+		"stage": "DesertDazzle",
+		"player1": "bf-pixel",
+		"player2": "gf-is-gone",
+		"player3": null,
+		"events": [
+			[
+				136000,
+				[
+					[
+						"Cam OFF",
+						"000000",
+						"4"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf-pixel",
+		"bpm": 150,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Ruby Delusions"
+	}
+}

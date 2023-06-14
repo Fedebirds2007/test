@@ -1,0 +1,1139 @@
+{
+	"song": {
+		"speed": 2.9,
+		"stage": "stage1f",
+		"player1": "bf3",
+		"player2": "freddy",
+		"player3": null,
+		"events": [
+			[
+				9595,
+				[
+					[
+						"Screen Shake",
+						"0.8, 0.04",
+						"0.8, 0.01"
+					]
+				]
+			],
+			[
+				9600,
+				[
+					[
+						"Play Animation",
+						"Ass",
+						"Dad"
+					]
+				]
+			],
+			[
+				12790,
+				[
+					[
+						"Screen Shake",
+						"0.8, 0.04",
+						"0.8, 0.01"
+					]
+				]
+			],
+			[
+				15992.5,
+				[
+					[
+						"Screen Shake",
+						"0.8, 0.04",
+						"0.8, 0.01"
+					]
+				]
+			],
+			[
+				16000,
+				[
+					[
+						"Play Animation",
+						"Ass",
+						"Dad"
+					]
+				]
+			],
+			[
+				19200,
+				[
+					[
+						"Screen Shake",
+						"0.8, 0.04",
+						"0.8, 0.01"
+					]
+				]
+			],
+			[
+				22400,
+				[
+					[
+						"Screen Shake",
+						"0.8, 0.04",
+						"0.8, 0.01"
+					]
+				]
+			],
+			[
+				25592.5,
+				[
+					[
+						"Screen Shake",
+						"0.8, 0.04",
+						"0.8, 0.01"
+					]
+				]
+			],
+			[
+				25600,
+				[
+					[
+						"Play Animation",
+						"Ass",
+						"Dad"
+					]
+				]
+			],
+			[
+				28800,
+				[
+					[
+						"Screen Shake",
+						"0.8, 0.04",
+						"0.8, 0.01"
+					]
+				]
+			],
+			[
+				31995,
+				[
+					[
+						"Screen Shake",
+						"0.8, 0.04",
+						"0.8, 0.01"
+					]
+				]
+			],
+			[
+				32000,
+				[
+					[
+						"Play Animation",
+						"Ass",
+						"Dad"
+					]
+				]
+			],
+			[
+				35200,
+				[
+					[
+						"Screen Shake",
+						"0.8, 0.04",
+						"0.8, 0.01"
+					]
+				]
+			],
+			[
+				38400,
+				[
+					[
+						"Screen Shake",
+						"0.8, 0.04",
+						"0.8, 0.01"
+					]
+				]
+			],
+			[
+				41597.5,
+				[
+					[
+						"Screen Shake",
+						"0.8, 0.04",
+						"0.8, 0.01"
+					]
+				]
+			],
+			[
+				41600,
+				[
+					[
+						"Play Animation",
+						"Ass",
+						"Dad"
+					]
+				]
+			],
+			[
+				44800,
+				[
+					[
+						"Screen Shake",
+						"0.8, 0.04",
+						"0.8, 0.01"
+					]
+				]
+			],
+			[
+				48000,
+				[
+					[
+						"Screen Shake",
+						"0.8, 0.04",
+						"0.8, 0.01"
+					]
+				]
+			],
+			[
+				51197.5,
+				[
+					[
+						"Screen Shake",
+						"0.8, 0.04",
+						"0.8, 0.01"
+					]
+				]
+			],
+			[
+				51200,
+				[
+					[
+						"Play Animation",
+						"Ass",
+						"Dad"
+					]
+				]
+			],
+			[
+				54400,
+				[
+					[
+						"Screen Shake",
+						"0.8, 0.04",
+						"0.8, 0.01"
+					]
+				]
+			],
+			[
+				57600,
+				[
+					[
+						"Screen Shake",
+						"0.8, 0.04",
+						"0.8, 0.01"
+					]
+				]
+			],
+			[
+				60795,
+				[
+					[
+						"Screen Shake",
+						"0.8, 0.04",
+						"0.8, 0.01"
+					]
+				]
+			],
+			[
+				60800,
+				[
+					[
+						"Play Animation",
+						"Ass",
+						"Dad"
+					]
+				]
+			],
+			[
+				61587.5,
+				[
+					[
+						"Screen Shake",
+						"0.8, 0.04",
+						"0.8, 0.01"
+					]
+				]
+			],
+			[
+				61600,
+				[
+					[
+						"Play Animation",
+						"Ass",
+						"Dad"
+					]
+				]
+			],
+			[
+				62392.5,
+				[
+					[
+						"Screen Shake",
+						"0.8, 0.04",
+						"0.8, 0.01"
+					]
+				]
+			],
+			[
+				62400,
+				[
+					[
+						"Play Animation",
+						"Ass",
+						"Dad"
+					]
+				]
+			],
+			[
+				63185,
+				[
+					[
+						"Screen Shake",
+						"0.8, 0.04",
+						"0.8, 0.01"
+					]
+				]
+			],
+			[
+				63200,
+				[
+					[
+						"Play Animation",
+						"Ass",
+						"Dad"
+					]
+				]
+			],
+			[
+				63997.5,
+				[
+					[
+						"Screen Shake",
+						"0.8, 0.04",
+						"0.8, 0.01"
+					]
+				]
+			],
+			[
+				64000,
+				[
+					[
+						"Play Animation",
+						"Ass",
+						"Dad"
+					]
+				]
+			],
+			[
+				64792.5,
+				[
+					[
+						"Screen Shake",
+						"0.8, 0.04",
+						"0.8, 0.01"
+					]
+				]
+			],
+			[
+				64800,
+				[
+					[
+						"Play Animation",
+						"Ass",
+						"Dad"
+					]
+				]
+			],
+			[
+				65595,
+				[
+					[
+						"Screen Shake",
+						"0.8, 0.04",
+						"0.8, 0.01"
+					]
+				]
+			],
+			[
+				65600,
+				[
+					[
+						"Play Animation",
+						"Ass",
+						"Dad"
+					]
+				]
+			],
+			[
+				66392.5,
+				[
+					[
+						"Screen Shake",
+						"0.8, 0.04",
+						"0.8, 0.01"
+					]
+				]
+			],
+			[
+				66400,
+				[
+					[
+						"Play Animation",
+						"Ass",
+						"Dad"
+					]
+				]
+			],
+			[
+				67192.5,
+				[
+					[
+						"Screen Shake",
+						"0.8, 0.04",
+						"0.8, 0.01"
+					]
+				]
+			],
+			[
+				67200,
+				[
+					[
+						"Play Animation",
+						"Ass",
+						"Dad"
+					]
+				]
+			],
+			[
+				67995,
+				[
+					[
+						"Screen Shake",
+						"0.8, 0.04",
+						"0.8, 0.01"
+					]
+				]
+			],
+			[
+				68000,
+				[
+					[
+						"Play Animation",
+						"Ass",
+						"Dad"
+					]
+				]
+			],
+			[
+				68797.5,
+				[
+					[
+						"Screen Shake",
+						"0.8, 0.04",
+						"0.8, 0.01"
+					]
+				]
+			],
+			[
+				68800,
+				[
+					[
+						"Play Animation",
+						"Ass",
+						"Dad"
+					]
+				]
+			],
+			[
+				69597.5,
+				[
+					[
+						"Screen Shake",
+						"0.8, 0.04",
+						"0.8, 0.01"
+					]
+				]
+			],
+			[
+				69600,
+				[
+					[
+						"Play Animation",
+						"Ass",
+						"Dad"
+					]
+				]
+			],
+			[
+				70392.5,
+				[
+					[
+						"Screen Shake",
+						"0.8, 0.04",
+						"0.8, 0.01"
+					]
+				]
+			],
+			[
+				70400,
+				[
+					[
+						"Play Animation",
+						"Ass",
+						"Dad"
+					]
+				]
+			],
+			[
+				71197.5,
+				[
+					[
+						"Screen Shake",
+						"0.8, 0.04",
+						"0.8, 0.01"
+					]
+				]
+			],
+			[
+				71200,
+				[
+					[
+						"Play Animation",
+						"Ass",
+						"Dad"
+					]
+				]
+			],
+			[
+				71992.5,
+				[
+					[
+						"Screen Shake",
+						"0.8, 0.04",
+						"0.8, 0.01"
+					]
+				]
+			],
+			[
+				72000,
+				[
+					[
+						"Play Animation",
+						"Ass",
+						"Dad"
+					]
+				]
+			],
+			[
+				73600,
+				[
+					[
+						"Screen Shake",
+						"0.8, 0.04",
+						"0.8, 0.01"
+					]
+				]
+			],
+			[
+				74400,
+				[
+					[
+						"Screen Shake",
+						"0.8, 0.04",
+						"0.8, 0.01"
+					]
+				]
+			],
+			[
+				75200,
+				[
+					[
+						"Screen Shake",
+						"0.8, 0.04",
+						"0.8, 0.01"
+					]
+				]
+			],
+			[
+				76000,
+				[
+					[
+						"Screen Shake",
+						"0.8, 0.04",
+						"0.8, 0.01"
+					]
+				]
+			],
+			[
+				76800,
+				[
+					[
+						"Screen Shake",
+						"0.8, 0.04",
+						"0.8, 0.01"
+					]
+				]
+			],
+			[
+				77600,
+				[
+					[
+						"Screen Shake",
+						"0.8, 0.04",
+						"0.8, 0.01"
+					]
+				]
+			],
+			[
+				78400,
+				[
+					[
+						"Screen Shake",
+						"0.8, 0.04",
+						"0.8, 0.01"
+					]
+				]
+			],
+			[
+				79200,
+				[
+					[
+						"Screen Shake",
+						"0.8, 0.04",
+						"0.8, 0.01"
+					]
+				]
+			],
+			[
+				80000,
+				[
+					[
+						"Screen Shake",
+						"0.8, 0.04",
+						"0.8, 0.01"
+					]
+				]
+			],
+			[
+				80800,
+				[
+					[
+						"Screen Shake",
+						"0.8, 0.04",
+						"0.8, 0.01"
+					]
+				]
+			],
+			[
+				81600,
+				[
+					[
+						"Screen Shake",
+						"0.8, 0.04",
+						"0.8, 0.01"
+					]
+				]
+			],
+			[
+				82400,
+				[
+					[
+						"Screen Shake",
+						"0.8, 0.04",
+						"0.8, 0.01"
+					]
+				]
+			],
+			[
+				83200,
+				[
+					[
+						"Screen Shake",
+						"0.8, 0.04",
+						"0.8, 0.01"
+					]
+				]
+			],
+			[
+				84000,
+				[
+					[
+						"Screen Shake",
+						"0.8, 0.04",
+						"0.8, 0.01"
+					]
+				]
+			],
+			[
+				84800,
+				[
+					[
+						"Screen Shake",
+						"0.8, 0.04",
+						"0.8, 0.01"
+					]
+				]
+			],
+			[
+				112000,
+				[
+					[
+						"Play Animation",
+						"Ass",
+						"Dad"
+					]
+				]
+			],
+			[
+				115200,
+				[
+					[
+						"Play Animation",
+						"Ass",
+						"Dad"
+					]
+				]
+			],
+			[
+				121600,
+				[
+					[
+						"Play Animation",
+						"Ass",
+						"Dad"
+					]
+				]
+			],
+			[
+				128000,
+				[
+					[
+						"Play Animation",
+						"Ass",
+						"Dad"
+					]
+				]
+			],
+			[
+				134400,
+				[
+					[
+						"Play Animation",
+						"Ass",
+						"Dad"
+					]
+				]
+			],
+			[
+				144000,
+				[
+					[
+						"Play Animation",
+						"Ass",
+						"Dad"
+					]
+				]
+			],
+			[
+				147200,
+				[
+					[
+						"Play Animation",
+						"Ass",
+						"Dad"
+					]
+				]
+			],
+			[
+				153600,
+				[
+					[
+						"Play Animation",
+						"Ass",
+						"Dad"
+					]
+				]
+			],
+			[
+				160000,
+				[
+					[
+						"Play Animation",
+						"Ass",
+						"Dad"
+					]
+				]
+			],
+			[
+				163200,
+				[
+					[
+						"Play Animation",
+						"Ass",
+						"Dad"
+					]
+				]
+			],
+			[
+				164000,
+				[
+					[
+						"Play Animation",
+						"Ass",
+						"Dad"
+					]
+				]
+			],
+			[
+				164800,
+				[
+					[
+						"Play Animation",
+						"Ass",
+						"Dad"
+					]
+				]
+			],
+			[
+				165600,
+				[
+					[
+						"Play Animation",
+						"Ass",
+						"Dad"
+					]
+				]
+			],
+			[
+				166400,
+				[
+					[
+						"Play Animation",
+						"Ass",
+						"Dad"
+					]
+				]
+			],
+			[
+				167200,
+				[
+					[
+						"Play Animation",
+						"Ass",
+						"Dad"
+					]
+				]
+			],
+			[
+				168800,
+				[
+					[
+						"Play Animation",
+						"Ass",
+						"Dad"
+					]
+				]
+			],
+			[
+				169600,
+				[
+					[
+						"Play Animation",
+						"Ass",
+						"Dad"
+					]
+				]
+			],
+			[
+				170400,
+				[
+					[
+						"Play Animation",
+						"Ass",
+						"Dad"
+					]
+				]
+			],
+			[
+				171200,
+				[
+					[
+						"Play Animation",
+						"Ass",
+						"Dad"
+					]
+				]
+			],
+			[
+				172000,
+				[
+					[
+						"Play Animation",
+						"Ass",
+						"Dad"
+					]
+				]
+			],
+			[
+				172800,
+				[
+					[
+						"Play Animation",
+						"Ass",
+						"Dad"
+					]
+				]
+			],
+			[
+				173600,
+				[
+					[
+						"Play Animation",
+						"Ass",
+						"Dad"
+					]
+				]
+			],
+			[
+				174400,
+				[
+					[
+						"Play Animation",
+						"Ass",
+						"Dad"
+					]
+				]
+			],
+			[
+				175200,
+				[
+					[
+						"Play Animation",
+						"Ass",
+						"Dad"
+					]
+				]
+			],
+			[
+				188800,
+				[
+					[
+						"Play Animation",
+						"Ass",
+						"Dad"
+					]
+				]
+			],
+			[
+				189600,
+				[
+					[
+						"Play Animation",
+						"Ass",
+						"Dad"
+					]
+				]
+			],
+			[
+				190400,
+				[
+					[
+						"Play Animation",
+						"Ass",
+						"Dad"
+					]
+				]
+			],
+			[
+				191200,
+				[
+					[
+						"Play Animation",
+						"Ass",
+						"Dad"
+					]
+				]
+			],
+			[
+				192000,
+				[
+					[
+						"Play Animation",
+						"Ass",
+						"Dad"
+					]
+				]
+			],
+			[
+				192800,
+				[
+					[
+						"Play Animation",
+						"Ass",
+						"Dad"
+					]
+				]
+			],
+			[
+				193600,
+				[
+					[
+						"Play Animation",
+						"Ass",
+						"Dad"
+					]
+				]
+			],
+			[
+				194400,
+				[
+					[
+						"Play Animation",
+						"Ass",
+						"Dad"
+					]
+				]
+			],
+			[
+				195200,
+				[
+					[
+						"Play Animation",
+						"Ass",
+						"Dad"
+					]
+				]
+			],
+			[
+				196000,
+				[
+					[
+						"Play Animation",
+						"Ass",
+						"Dad"
+					]
+				]
+			],
+			[
+				196800,
+				[
+					[
+						"Play Animation",
+						"Ass",
+						"Dad"
+					]
+				]
+			],
+			[
+				197600,
+				[
+					[
+						"Play Animation",
+						"Ass",
+						"Dad"
+					]
+				]
+			],
+			[
+				198400,
+				[
+					[
+						"Play Animation",
+						"Ass",
+						"Dad"
+					]
+				]
+			],
+			[
+				199200,
+				[
+					[
+						"Play Animation",
+						"Ass",
+						"Dad"
+					]
+				]
+			],
+			[
+				200000,
+				[
+					[
+						"Play Animation",
+						"Ass",
+						"Dad"
+					]
+				]
+			],
+			[
+				200800,
+				[
+					[
+						"Play Animation",
+						"Ass",
+						"Dad"
+					]
+				]
+			],
+			[
+				214600,
+				[
+					[
+						"Play Animation",
+						"Ass",
+						"Dad"
+					]
+				]
+			],
+			[
+				217600,
+				[
+					[
+						"Play Animation",
+						"Ass",
+						"Dad"
+					]
+				]
+			],
+			[
+				220800,
+				[
+					[
+						"Play Animation",
+						"Ass",
+						"Dad"
+					]
+				]
+			],
+			[
+				227200,
+				[
+					[
+						"Play Animation",
+						"Ass",
+						"Dad"
+					]
+				]
+			],
+			[
+				233600,
+				[
+					[
+						"Play Animation",
+						"Ass",
+						"Dad"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf2",
+		"bpm": 150,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "freddy-assbear"
+	}
+}

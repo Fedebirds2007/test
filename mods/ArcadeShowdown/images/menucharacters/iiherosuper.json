@@ -1,0 +1,10 @@
+{
+	"idle_anim": "M BF Idle dance",
+	"image": "menu_iiherosuper",
+	"position": [
+		-230,
+		-40
+	],
+	"scale": 0.55,
+	"confirm_anim": "BF HEY!!"
+}

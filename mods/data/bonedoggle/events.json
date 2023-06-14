@@ -1,0 +1,251 @@
+{
+	"song": {
+		"events": [
+			[
+				19000,
+				[
+					[
+						"3rdstrum",
+						"True",
+						""
+					]
+				]
+			],
+			[
+				19200,
+				[
+					[
+						"Set Cam Zoom",
+						"1.1",
+						"4"
+					]
+				]
+			],
+			[
+				23900,
+				[
+					[
+						"Play Animation",
+						"GoingToSleep",
+						""
+					]
+				]
+			],
+			[
+				24800,
+				[
+					[
+						"Set Cam Zoom",
+						"0.7",
+						"0.5"
+					]
+				]
+			],
+			[
+				25200,
+				[
+					[
+						"Play Animation",
+						"Sleeping",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"!",
+						"gf"
+					]
+				]
+			],
+			[
+				25212.5,
+				[
+					[
+						"3rdstrum",
+						"False",
+						""
+					]
+				]
+			],
+			[
+				25300,
+				[
+					[
+						"Set Cam Zoom",
+						"0.75",
+						"0.5"
+					]
+				]
+			],
+			[
+				25600,
+				[
+					[
+						"Play Animation",
+						"Mad",
+						"gf"
+					]
+				]
+			],
+			[
+				30000,
+				[
+					[
+						"Play Animation",
+						"WakingUp",
+						"dad"
+					],
+					[
+						"3rdstrum",
+						"True",
+						""
+					]
+				]
+			],
+			[
+				32000,
+				[
+					[
+						"Set Cam Zoom",
+						"0.9",
+						"0.5"
+					]
+				]
+			],
+			[
+				35200,
+				[
+					[
+						"Alt Idle Animation",
+						"gf",
+						"-alt"
+					]
+				]
+			],
+			[
+				38400,
+				[
+					[
+						"Alt Idle Animation",
+						"gf",
+						""
+					]
+				]
+			],
+			[
+				70000,
+				[
+					[
+						"Play Animation",
+						"LightSaber",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"Bruh",
+						"gf"
+					],
+					[
+						"Alt Idle Animation",
+						"dad",
+						"-alt"
+					]
+				]
+			],
+			[
+				70100,
+				[
+					[
+						"Set Cam Zoom",
+						"0.7",
+						"0.5"
+					]
+				]
+			],
+			[
+				77100,
+				[
+					[
+						"Play Animation",
+						"Mad",
+						"gf"
+					]
+				]
+			],
+			[
+				81200,
+				[
+					[
+						"Play Animation",
+						"BackToIdle",
+						"dad"
+					],
+					[
+						"Alt Idle Animation",
+						"gf",
+						"-alt"
+					],
+					[
+						"Play Animation",
+						"idle-alt",
+						"gf"
+					],
+					[
+						"Alt Idle Animation",
+						"dad",
+						""
+					]
+				]
+			],
+			[
+				82400,
+				[
+					[
+						"Play Animation",
+						":)",
+						"dad"
+					]
+				]
+			],
+			[
+				82800,
+				[
+					[
+						"Alt Idle Animation",
+						"gf",
+						""
+					],
+					[
+						"Play Animation",
+						"Let's go",
+						"gf"
+					]
+				]
+			],
+			[
+				123200,
+				[
+					[
+						"Play Animation",
+						"GoingToSleep",
+						"dad"
+					]
+				]
+			],
+			[
+				124400,
+				[
+					[
+						"Play Animation",
+						"Sleeping",
+						"dad"
+					],
+					[
+						"Play Animation",
+						"Bruh",
+						"gf"
+					]
+				]
+			]
+		]
+	}
+}
