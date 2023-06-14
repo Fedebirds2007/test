@@ -1,0 +1,11 @@
+{
+	"confirm_anim": "jimmy dark dance",
+	"idle_anim": "jimmy dark dance",
+	"position": [
+		-160,
+		112
+	],
+	"scale": 0.6,
+	"image": "Menu_mrbeast",
+	"flipX": false
+}

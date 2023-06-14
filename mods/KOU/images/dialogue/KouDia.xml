@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="KouDia.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Kou Dia0000" x="0" y="0" width="277" height="265" frameX="0" frameY="0" frameWidth="287" frameHeight="265"/>
+	<SubTexture name="Kou Dia0001" x="277" y="0" width="277" height="265" frameX="-4" frameY="0" frameWidth="287" frameHeight="265"/>
+	<SubTexture name="Kou Dia0002" x="277" y="0" width="277" height="265" frameX="-7" frameY="0" frameWidth="287" frameHeight="265"/>
+	<SubTexture name="Kou Dia0003" x="277" y="0" width="277" height="265" frameX="-10" frameY="0" frameWidth="287" frameHeight="265"/>
+</TextureAtlas>

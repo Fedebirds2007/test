@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="koudia4.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="koudia40000" x="0" y="0" width="270" height="472"/>
+	<SubTexture name="koudia40001" x="0" y="0" width="270" height="472"/>
+	<SubTexture name="koudia40002" x="0" y="0" width="270" height="472"/>
+	<SubTexture name="koudia40003" x="0" y="0" width="270" height="472"/>
+	<SubTexture name="koudia40004" x="0" y="0" width="270" height="472"/>
+	<SubTexture name="koudia40005" x="0" y="0" width="270" height="472"/>
+	<SubTexture name="koudia40006" x="0" y="0" width="270" height="472"/>
+	<SubTexture name="koudia40007" x="0" y="0" width="270" height="472"/>
+	<SubTexture name="koudia40008" x="0" y="0" width="270" height="472"/>
+	<SubTexture name="koudia40009" x="0" y="0" width="270" height="472"/>
+	<SubTexture name="koudia40010" x="0" y="0" width="270" height="472"/>
+	<SubTexture name="koudia40011" x="0" y="0" width="270" height="472"/>
+	<SubTexture name="koudia40012" x="0" y="0" width="270" height="472"/>
+	<SubTexture name="koudia40013" x="0" y="0" width="270" height="472"/>
+</TextureAtlas>

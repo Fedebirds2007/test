@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="kou player dia.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="kou player dia0000" x="0" y="0" width="278" height="471"/>
+	<SubTexture name="kou player dia0001" x="0" y="0" width="278" height="471"/>
+	<SubTexture name="kou player dia0002" x="0" y="0" width="278" height="471"/>
+	<SubTexture name="kou player dia0003" x="0" y="0" width="278" height="471"/>
+	<SubTexture name="kou player dia0004" x="0" y="0" width="278" height="471"/>
+	<SubTexture name="kou player dia0005" x="0" y="0" width="278" height="471"/>
+	<SubTexture name="kou player dia0006" x="0" y="0" width="278" height="471"/>
+	<SubTexture name="kou player dia0007" x="0" y="0" width="278" height="471"/>
+	<SubTexture name="kou player dia0008" x="0" y="0" width="278" height="471"/>
+	<SubTexture name="kou player dia0009" x="0" y="0" width="278" height="471"/>
+	<SubTexture name="kou player dia0010" x="0" y="0" width="278" height="471"/>
+	<SubTexture name="kou player dia0011" x="0" y="0" width="278" height="471"/>
+	<SubTexture name="kou player dia0012" x="0" y="0" width="278" height="471"/>
+	<SubTexture name="kou player dia0013" x="0" y="0" width="278" height="471"/>
+	<SubTexture name="kou player dia0014" x="0" y="0" width="278" height="471"/>
+</TextureAtlas>

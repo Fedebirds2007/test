@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="kouwink2.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="kouwink20000" x="0" y="0" width="867" height="474"/>
+	<SubTexture name="kouwink20001" x="0" y="0" width="867" height="474"/>
+	<SubTexture name="kouwink20002" x="0" y="0" width="867" height="474"/>
+	<SubTexture name="kouwink20003" x="0" y="0" width="867" height="474"/>
+	<SubTexture name="kouwink20004" x="0" y="0" width="867" height="474"/>
+	<SubTexture name="kouwink20005" x="0" y="0" width="867" height="474"/>
+</TextureAtlas>

@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="songgihun.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="songgihun down0000" x="80" y="80" width="603" height="786"/>
+	<SubTexture name="songgihun down0001" x="80" y="80" width="603" height="786"/>
+	<SubTexture name="songgihun down0002" x="763" y="80" width="603" height="786"/>
+	<SubTexture name="songgihun down0003" x="763" y="80" width="603" height="786"/>
+	<SubTexture name="songgihun down0004" x="1446" y="80" width="602" height="786" frameX="0" frameY="0" frameWidth="603" frameHeight="786"/>
+	<SubTexture name="songgihun down0005" x="1446" y="80" width="602" height="786" frameX="0" frameY="0" frameWidth="603" frameHeight="786"/>
+	<SubTexture name="songgihun down0006" x="2128" y="80" width="603" height="786"/>
+	<SubTexture name="songgihun down0007" x="2128" y="80" width="603" height="786"/>
+	<SubTexture name="songgihun down0008" x="763" y="80" width="603" height="786"/>
+	<SubTexture name="songgihun down0009" x="763" y="80" width="603" height="786"/>
+	<SubTexture name="songgihun down0010" x="1446" y="80" width="602" height="786" frameX="0" frameY="0" frameWidth="603" frameHeight="786"/>
+	<SubTexture name="songgihun down0011" x="1446" y="80" width="602" height="786" frameX="0" frameY="0" frameWidth="603" frameHeight="786"/>
+	<SubTexture name="songgihun down0012" x="2128" y="80" width="603" height="786"/>
+	<SubTexture name="songgihun down0013" x="2128" y="80" width="603" height="786"/>
+	<SubTexture name="songgihun idle0000" x="2811" y="80" width="603" height="786"/>
+	<SubTexture name="songgihun idle0001" x="2811" y="80" width="603" height="786"/>
+	<SubTexture name="songgihun idle0002" x="80" y="946" width="603" height="786"/>
+	<SubTexture name="songgihun idle0003" x="80" y="946" width="603" height="786"/>
+	<SubTexture name="songgihun idle0004" x="763" y="946" width="602" height="786" frameX="0" frameY="0" frameWidth="603" frameHeight="786"/>
+	<SubTexture name="songgihun idle0005" x="763" y="946" width="602" height="786" frameX="0" frameY="0" frameWidth="603" frameHeight="786"/>
+	<SubTexture name="songgihun left0000" x="1445" y="946" width="603" height="786"/>
+	<SubTexture name="songgihun left0001" x="1445" y="946" width="603" height="786"/>
+	<SubTexture name="songgihun left0002" x="2128" y="946" width="603" height="786"/>
+	<SubTexture name="songgihun left0003" x="2128" y="946" width="603" height="786"/>
+	<SubTexture name="songgihun left0004" x="2811" y="946" width="602" height="786" frameX="0" frameY="0" frameWidth="603" frameHeight="786"/>
+	<SubTexture name="songgihun left0005" x="2811" y="946" width="602" height="786" frameX="0" frameY="0" frameWidth="603" frameHeight="786"/>
+	<SubTexture name="songgihun left0006" x="80" y="1812" width="603" height="786"/>
+	<SubTexture name="songgihun left0007" x="80" y="1812" width="603" height="786"/>
+	<SubTexture name="songgihun left0008" x="2128" y="946" width="603" height="786"/>
+	<SubTexture name="songgihun left0009" x="2128" y="946" width="603" height="786"/>
+	<SubTexture name="songgihun left0010" x="2811" y="946" width="602" height="786" frameX="0" frameY="0" frameWidth="603" frameHeight="786"/>
+	<SubTexture name="songgihun left0011" x="2811" y="946" width="602" height="786" frameX="0" frameY="0" frameWidth="603" frameHeight="786"/>
+	<SubTexture name="songgihun left0012" x="80" y="1812" width="603" height="786"/>
+	<SubTexture name="songgihun left0013" x="80" y="1812" width="603" height="786"/>
+	<SubTexture name="songgihun right0000" x="763" y="1812" width="603" height="786"/>
+	<SubTexture name="songgihun right0001" x="763" y="1812" width="603" height="786"/>
+	<SubTexture name="songgihun right0002" x="1446" y="1812" width="603" height="786"/>
+	<SubTexture name="songgihun right0003" x="1446" y="1812" width="603" height="786"/>
+	<SubTexture name="songgihun right0004" x="2129" y="1812" width="602" height="786" frameX="0" frameY="0" frameWidth="603" frameHeight="786"/>
+	<SubTexture name="songgihun right0005" x="2129" y="1812" width="602" height="786" frameX="0" frameY="0" frameWidth="603" frameHeight="786"/>
+	<SubTexture name="songgihun right0006" x="2811" y="1812" width="603" height="786"/>
+	<SubTexture name="songgihun right0007" x="2811" y="1812" width="603" height="786"/>
+	<SubTexture name="songgihun right0008" x="1446" y="1812" width="603" height="786"/>
+	<SubTexture name="songgihun right0009" x="1446" y="1812" width="603" height="786"/>
+	<SubTexture name="songgihun right0010" x="2129" y="1812" width="602" height="786" frameX="0" frameY="0" frameWidth="603" frameHeight="786"/>
+	<SubTexture name="songgihun right0011" x="2129" y="1812" width="602" height="786" frameX="0" frameY="0" frameWidth="603" frameHeight="786"/>
+	<SubTexture name="songgihun right0012" x="2811" y="1812" width="603" height="786"/>
+	<SubTexture name="songgihun right0013" x="2811" y="1812" width="603" height="786"/>
+	<SubTexture name="songgihun up0000" x="80" y="2678" width="603" height="786"/>
+	<SubTexture name="songgihun up0001" x="80" y="2678" width="603" height="786"/>
+	<SubTexture name="songgihun up0002" x="763" y="2678" width="603" height="786"/>
+	<SubTexture name="songgihun up0003" x="763" y="2678" width="603" height="786"/>
+	<SubTexture name="songgihun up0004" x="1446" y="2678" width="602" height="786" frameX="0" frameY="0" frameWidth="603" frameHeight="786"/>
+	<SubTexture name="songgihun up0005" x="1446" y="2678" width="602" height="786" frameX="0" frameY="0" frameWidth="603" frameHeight="786"/>
+	<SubTexture name="songgihun up0006" x="2128" y="2678" width="603" height="786"/>
+	<SubTexture name="songgihun up0007" x="2128" y="2678" width="603" height="786"/>
+	<SubTexture name="songgihun up0008" x="763" y="2678" width="603" height="786"/>
+	<SubTexture name="songgihun up0009" x="763" y="2678" width="603" height="786"/>
+	<SubTexture name="songgihun up0010" x="1446" y="2678" width="602" height="786" frameX="0" frameY="0" frameWidth="603" frameHeight="786"/>
+	<SubTexture name="songgihun up0011" x="1446" y="2678" width="602" height="786" frameX="0" frameY="0" frameWidth="603" frameHeight="786"/>
+	<SubTexture name="songgihun up0012" x="2128" y="2678" width="603" height="786"/>
+	<SubTexture name="songgihun up0013" x="2128" y="2678" width="603" height="786"/>
+</TextureAtlas>

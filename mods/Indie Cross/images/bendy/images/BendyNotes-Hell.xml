@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BendyNotes-Hell.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="B0000" x="0" y="0" width="324" height="321" frameX = "80" frameY = "55" frameWidth = "324" frameHeight = "321"/>
+	<SubTexture name="B tail0000" x="324" y="0" width="50" height="64"/>
+	<SubTexture name="B hold0000" x="374" y="0" width="50" height="44"/>
+	<SubTexture name="C0000" x="424" y="0" width="324" height="320" frameX = "80" frameY = "55" frameWidth = "324" frameHeight = "321"/>
+	<SubTexture name="C tail0000" x="748" y="0" width="50" height="64"/>
+	<SubTexture name="C hold0000" x="798" y="0" width="50" height="44"/>
+	<SubTexture name="A tail0000" x="848" y="0" width="50" height="64"/>
+	<SubTexture name="A0000" x="0" y="321" width="321" height="324" frameX = "80" frameY = "55" frameWidth = "321" frameHeight = "324"/>
+	<SubTexture name="A hold0000" x="321" y="321" width="50" height="44"/>
+	<SubTexture name="D0000" x="371" y="321" width="321" height="324" frameX = "80" frameY = "55" frameWidth = "321" frameHeight = "324"/>
+	<SubTexture name="D tail0000" x="692" y="321" width="50" height="64"/>
+	<SubTexture name="D hold0000" x="742" y="321" width="50" height="44"/>
+</TextureAtlas>

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Kou Idle Pose",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-56,
+				-90
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Kou Down Note",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-60,
+				-11
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Kou Up Note",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-114,
+				-60
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Kou Right Note",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-45,
+				-22
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Kou Left Note",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Kou_FNF_assetss",
+	"position": [
+		30,
+		255
+	],
+	"healthicon": "kou",
+	"flip_x": false,
+	"healthbar_colors": [
+		236,
+		125,
+		182
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
