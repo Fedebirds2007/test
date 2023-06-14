@@ -2,33 +2,33 @@ mods/data/fuzzy-distortion-remix/events.json
 mods/data/fuzzy-distortion-remix/fuzzy-distortion-remix-hard.json
 mods/data/fuzzy-distortion-remix/fuzzy-distortion-remix.json
 mods/data/fuzzy-distortion-remix/mod.txt
-mods/ArcadeShowdown/characters/bf.json
-mods/ArcadeShowdown/characters/newkapi.json
-mods/ArcadeShowdown/characters/boombox.json
-mods/ArcadeShowdown/stages/arcade.json
-mods/ArcadeShowdown/stages/arcade.lua
-mods/ArcadeShowdown/images/characters/newkapi.png
-mods/ArcadeShowdown/images/characters/newkapi.xml
-mods/ArcadeShowdown/images/characters/boombox.png
-mods/ArcadeShowdown/images/characters/boombox.xml
-mods/ArcadeShowdown/characters/blackoutbf.json
-mods/ArcadeShowdown/images/characters/deeznutz.png
-mods/ArcadeShowdown/images/characters/deeznutz.xml
-mods/ArcadeShowdown/custom_events/Drain.lua
-mods/ArcadeShowdown/custom_events/invert controls.lua
-mods/ArcadeShowdown/custom_events/Note Fade.lua
-mods/ArcadeShowdown/custom_events/Cam Boom Speed.lua
-mods/ArcadeShowdown/custom_events/lyrics.lua
-mods/ArcadeShowdown/custom_events/Flash Camera.lua
-mods/ArcadeShowdown/custom_events/HudGone.lua
-mods/ArcadeShowdown/custom_events/uninvert.lua
-mods/ArcadeShowdown/scripts/accuracy.lua
-mods/ArcadeShowdown/scripts/screenBeat.lua
-mods/ArcadeShowdown/scripts/ThetaUI.lua
-mods/ArcadeShowdown/scripts/timeBar.lua
-mods/ArcadeShowdown/scripts/titlestuff.lua
-mods/ArcadeShowdown/images/arcade.png
-mods/ArcadeShowdown/images/floor-arcade.png
-mods/ArcadeShowdown/images/nothing.png
+mods/IHS vs Kapi/characters/bf.json
+mods/IHS vs Kapi/characters/newkapi.json
+mods/IHS vs Kapi/characters/boombox.json
+mods/IHS vs Kapi/stages/arcade.json
+mods/IHS vs Kapi/stages/arcade.lua
+mods/IHS vs Kapi/images/characters/newkapi.png
+mods/IHS vs Kapi/images/characters/newkapi.xml
+mods/IHS vs Kapi/images/characters/boombox.png
+mods/IHS vs Kapi/images/characters/boombox.xml
+mods/IHS vs Kapi/characters/blackoutbf.json
+mods/IHS vs Kapi/images/characters/deeznutz.png
+mods/IHS vs Kapi/images/characters/deeznutz.xml
+mods/IHS vs Kapi/custom_events/Drain.lua
+mods/IHS vs Kapi/custom_events/invert controls.lua
+mods/IHS vs Kapi/custom_events/Note Fade.lua
+mods/IHS vs Kapi/custom_events/Cam Boom Speed.lua
+mods/IHS vs Kapi/custom_events/lyrics.lua
+mods/IHS vs Kapi/custom_events/Flash Camera.lua
+mods/IHS vs Kapi/custom_events/HudGone.lua
+mods/IHS vs Kapi/custom_events/uninvert.lua
+mods/IHS vs Kapi/scripts/accuracy.lua
+mods/IHS vs Kapi/scripts/screenBeat.lua
+mods/IHS vs Kapi/scripts/ThetaUI.lua
+mods/IHS vs Kapi/scripts/timeBar.lua
+mods/IHS vs Kapi/scripts/titlestuff.lua
+mods/IHS vs Kapi/images/arcade.png
+mods/IHS vs Kapi/images/floor-arcade.png
+mods/IHS vs Kapi/images/nothing.png
 mods/songs/fuzzy-distortion-remix/Inst.ogg
 mods/songs/fuzzy-distortion-remix/inst.ogg

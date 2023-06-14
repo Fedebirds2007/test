@@ -1,20 +1,20 @@
 mods/data/ruby-delusions/events.json
 mods/data/ruby-delusions/mod.txt
 mods/data/ruby-delusions/ruby-delusions-hard.json
-mods/ArcadeShowdownCinema/characters/bf-pixel.json
-mods/ArcadeShowdownCinema/characters/gf-is-gone.json
-mods/ArcadeShowdownCinema/characters/gf-pixel.json
-mods/ArcadeShowdownCinema/stages/DesertDazzle.json
-mods/ArcadeShowdownCinema/stages/DesertDazzle.lua
-mods/ArcadeShowdownCinema/images/characters/gf-is-gone.png
-mods/ArcadeShowdownCinema/images/characters/gf-is-gone.xml
-mods/ArcadeShowdownCinema/scripts/accuracy.lua
-mods/ArcadeShowdownCinema/scripts/Cinematic_Bars.lua
-mods/ArcadeShowdownCinema/scripts/screenBeat.lua
-mods/ArcadeShowdownCinema/scripts/ThetaUI.lua
-mods/ArcadeShowdownCinema/scripts/timeBar.lua
-mods/ArcadeShowdownCinema/scripts/titlestuff.lua
-mods/ArcadeShowdownCinema/images/desertdazzlebg.png
-mods/ArcadeShowdownCinema/images/desertdazzleground.png
+mods/IHS vs KapiCinema/characters/bf-pixel.json
+mods/IHS vs KapiCinema/characters/gf-is-gone.json
+mods/IHS vs KapiCinema/characters/gf-pixel.json
+mods/IHS vs KapiCinema/stages/DesertDazzle.json
+mods/IHS vs KapiCinema/stages/DesertDazzle.lua
+mods/IHS vs KapiCinema/images/characters/gf-is-gone.png
+mods/IHS vs KapiCinema/images/characters/gf-is-gone.xml
+mods/IHS vs KapiCinema/scripts/accuracy.lua
+mods/IHS vs KapiCinema/scripts/Cinematic_Bars.lua
+mods/IHS vs KapiCinema/scripts/screenBeat.lua
+mods/IHS vs KapiCinema/scripts/ThetaUI.lua
+mods/IHS vs KapiCinema/scripts/timeBar.lua
+mods/IHS vs KapiCinema/scripts/titlestuff.lua
+mods/IHS vs KapiCinema/images/desertdazzlebg.png
+mods/IHS vs KapiCinema/images/desertdazzleground.png
 mods/songs/ruby-delusions/Inst.ogg
 mods/songs/ruby-delusions/inst.ogg

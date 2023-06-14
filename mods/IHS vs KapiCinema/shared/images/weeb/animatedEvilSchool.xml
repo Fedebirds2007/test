@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="animatedEvilSchool.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="background 2 instance10000" x="0" y="0" width="1570" height="638"/>
+	<SubTexture name="background 2 instance10001" x="1570" y="0" width="1570" height="638"/>
+	<SubTexture name="background 2 instance10002" x="1570" y="0" width="1570" height="638"/>
+	<SubTexture name="background 2 instance10003" x="1570" y="0" width="1570" height="638"/>
+	<SubTexture name="background 2 instance10004" x="1570" y="0" width="1570" height="638"/>
+	<SubTexture name="background 2 instance10005" x="7930" y="0" width="1570" height="638"/>
+	<SubTexture name="background 2 instance10006" x="7930" y="0" width="1570" height="638"/>
+	<SubTexture name="background 2 instance10007" x="7930" y="522" width="1570" height="638"/>
+	<SubTexture name="background 2 instance10008" x="7930" y="522" width="1570" height="638"/>
+	<SubTexture name="background 2 instance10009" x="7930" y="522" width="1586" height="758"/>
+	<SubTexture name="background 2 instance10010" x="7930" y="522" width="1586" height="758"/>
+	<SubTexture name="background 2 instance10011" x="7930" y="522" width="1586" height="758"/>
+	<SubTexture name="background 2 instance10012" x="7930" y="522" width="1586" height="758"/>
+	<SubTexture name="background 2 instance10013" x="7930" y="522" width="1586" height="758"/>
+	<SubTexture name="background 2 instance10014" x="7930" y="1044" width="1586" height="758"/>
+	<SubTexture name="background 2 instance10015" x="7930" y="1044" width="1586" height="758"/>
+	<SubTexture name="background 2 instance10016" x="7930" y="1044" width="1586" height="758"/>
+	<SubTexture name="background 2 instance10017" x="7930" y="1044" width="1586" height="758"/>
+	<SubTexture name="background 2 instance10018" x="7930" y="1044" width="1586" height="758"/>
+	<SubTexture name="background 2 instance10019" x="7930" y="1044" width="1586" height="758"/>
+	<SubTexture name="background 2 instance10020" x="7930" y="1044" width="1586" height="758"/>
+	<SubTexture name="background 2 instance10021" x="7930" y="1566" width="1586" height="758"/>
+</TextureAtlas>

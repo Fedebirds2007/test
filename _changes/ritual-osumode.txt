@@ -2,35 +2,6 @@ mods/data/ritual/mod.txt
 mods/data/ritual/ritual-hard.json
 mods/data/ritual/ritual-hell.json
 mods/data/ritual/ritual-no-mechanics.json
-mods/Indie Cross/stages/sammy-stage.json
-mods/Indie Cross/stages/sammy-stage.lua
-mods/Indie Cross/custom_notetypes/BendySplashNote.lua
-mods/Indie Cross/custom_events/Fade Cameras.lua
-mods/Indie Cross/custom_events/SammyAttack.lua
-mods/Indie Cross/scripts/accuracy.lua
-mods/Indie Cross/scripts/BendyBlackScreenEffect.lua
-mods/Indie Cross/scripts/cameraMovement.lua
-mods/Indie Cross/scripts/cameraShake.lua
-mods/Indie Cross/scripts/changeFont-Indie Cross.lua
-mods/Indie Cross/scripts/changeHealthBar-IndieCross.lua
-mods/Indie Cross/scripts/changeNoteSplash.lua
-mods/Indie Cross/scripts/frameAnimation.lua
-mods/Indie Cross/scripts/Hell-Difficuty-IC.lua
-mods/Indie Cross/scripts/IndieCrossCountDown.lua
-mods/Indie Cross/scripts/PiperStrickerScript.lua
-mods/Indie Cross/scripts/PrecacheImages.lua
-mods/Indie Cross/scripts/screenBeat.lua
-mods/Indie Cross/scripts/songNameBox.lua
-mods/Indie Cross/scripts/ThetaUI.lua
-mods/Indie Cross/scripts/timeBar.lua
-mods/Indie Cross/sounds/bendy/inked.ogg
-mods/Indie Cross/sounds/bendy/Sammy/sammyAxeThrow.ogg
-mods/Indie Cross/sounds/bendy/Sammy/sammyAxeGround.ogg
-mods/Indie Cross/fonts/CupheadICFont.ttf
-mods/Indie Cross/fonts/BendyICFont.ttf
-mods/Indie Cross/fonts/SansICFont.ttf
-mods/Indie Cross/fonts/PapyrusICFont.ttf
-mods/Indie Cross/sounds/bendy/whoosh.ogg
 mods/songs/ritual/Voices.ogg
 mods/songs/ritual/voices.ogg
 mods/songs/ritual/Inst.ogg

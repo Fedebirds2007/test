@@ -2,14 +2,6 @@ mods/data/count-to-three/count-to-three-easy.json
 mods/data/count-to-three/count-to-three-hard.json
 mods/data/count-to-three/count-to-three.json
 mods/data/count-to-three/mod.txt
-mods/FP Custom/stages/arcadecustom.json
-mods/FP Custom/stages/arcadecustom.lua
-mods/FP Custom/scripts/accuracy.lua
-mods/FP Custom/scripts/Cinematic_Bars.lua
-mods/FP Custom/scripts/screenBeat.lua
-mods/FP Custom/scripts/ThetaUI.lua
-mods/FP Custom/scripts/timeBar.lua
-mods/FP Custom/scripts/titlestuff.lua
 mods/songs/count-to-three/Voices.ogg
 mods/songs/count-to-three/voices.ogg
 mods/songs/count-to-three/Inst.ogg

@@ -1,0 +1,6 @@
+Flashes Camera
+
+Value 1: speed
+
+
+(I find it funny how bbpanzu's Flash is more optimized than other flash events - Herox)

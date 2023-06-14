@@ -2,14 +2,6 @@ mods/data/addict/addict-easy.json
 mods/data/addict/addict-hard.json
 mods/data/addict/addict.json
 mods/data/addict/mod.txt
-mods/FP Custom/stages/pentagram.json
-mods/FP Custom/stages/pentagram.lua
-mods/FP Custom/scripts/accuracy.lua
-mods/FP Custom/scripts/Cinematic_Bars.lua
-mods/FP Custom/scripts/screenBeat.lua
-mods/FP Custom/scripts/ThetaUI.lua
-mods/FP Custom/scripts/timeBar.lua
-mods/FP Custom/scripts/titlestuff.lua
 mods/songs/addict/Voices.ogg
 mods/songs/addict/voices.ogg
 mods/songs/addict/Inst.ogg

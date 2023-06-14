@@ -2,28 +2,5 @@ mods/data/death_by_glamour/death_by_glamour-easy.json
 mods/data/death_by_glamour/death_by_glamour-hard.json
 mods/data/death_by_glamour/death_by_glamour.json
 mods/data/death_by_glamour/mod.txt
-mods/FP Custom/characters/frisk.json
-mods/FP Custom/characters/mettaton.json
-mods/FP Custom/stages/mettaton.json
-mods/FP Custom/stages/mettaton.lua
-mods/FP Custom/images/characters/frisk.png
-mods/FP Custom/images/characters/frisk.xml
-mods/FP Custom/images/characters/mettaton.png
-mods/FP Custom/images/characters/mettaton.xml
-mods/FP Custom/scripts/accuracy.lua
-mods/FP Custom/scripts/Cinematic_Bars.lua
-mods/FP Custom/scripts/screenBeat.lua
-mods/FP Custom/scripts/ThetaUI.lua
-mods/FP Custom/scripts/timeBar.lua
-mods/FP Custom/scripts/titlestuff.lua
-mods/FP Custom/images/mettaton.png
-mods/FP Custom/images/dbg/fog_back.png
-mods/FP Custom/images/dbg/fog_mid.png
-mods/FP Custom/images/dbg/DBGlights.png
-mods/FP Custom/images/dbg/DBGpulse.png
-mods/FP Custom/images/dbg/DBGpulse.xml
-mods/FP Custom/images/dbg/fog_front.png
-mods/FP Custom/images/dbg/bunch_of_simps.png
-mods/FP Custom/images/dbg/bunch_of_simps.xml
 mods/songs/death_by_glamour/Inst.ogg
 mods/songs/death_by_glamour/inst.ogg

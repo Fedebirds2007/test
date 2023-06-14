@@ -2,36 +2,6 @@ mods/data/bad-time/bad-time-hard.json
 mods/data/bad-time/bad-time-hell.json
 mods/data/bad-time/bad-time-no-mechanics.json
 mods/data/bad-time/mod.txt
-mods/Indie Cross/stages/Sans-BS.json
-mods/Indie Cross/stages/Sans-BS.lua
-mods/Indie Cross/custom_notetypes/OrangeBoneNote.lua
-mods/Indie Cross/custom_notetypes/BlueBoneNote.lua
-mods/Indie Cross/custom_events/SansDodge.lua
-mods/Indie Cross/scripts/accuracy.lua
-mods/Indie Cross/scripts/BendyBlackScreenEffect.lua
-mods/Indie Cross/scripts/cameraMovement.lua
-mods/Indie Cross/scripts/cameraShake.lua
-mods/Indie Cross/scripts/changeFont-Indie Cross.lua
-mods/Indie Cross/scripts/changeHealthBar-IndieCross.lua
-mods/Indie Cross/scripts/changeNoteSplash.lua
-mods/Indie Cross/scripts/frameAnimation.lua
-mods/Indie Cross/scripts/Hell-Difficuty-IC.lua
-mods/Indie Cross/scripts/IndieCrossCountDown.lua
-mods/Indie Cross/scripts/PiperStrickerScript.lua
-mods/Indie Cross/scripts/PrecacheImages.lua
-mods/Indie Cross/scripts/screenBeat.lua
-mods/Indie Cross/scripts/songNameBox.lua
-mods/Indie Cross/scripts/ThetaUI.lua
-mods/Indie Cross/scripts/timeBar.lua
-mods/Indie Cross/sounds/sans/dodge.ogg
-mods/Indie Cross/sounds/sans/notice.ogg
-mods/Indie Cross/sounds/sans/sansattack.ogg
-mods/Indie Cross/fonts/CupheadICFont.ttf
-mods/Indie Cross/fonts/BendyICFont.ttf
-mods/Indie Cross/fonts/SansICFont.ttf
-mods/Indie Cross/fonts/PapyrusICFont.ttf
-mods/Indie Cross/sounds/bendy/whoosh.ogg
-mods/Indie Cross/sounds/bendy/inked.ogg
 mods/songs/bad-time/Voices.ogg
 mods/songs/bad-time/voices.ogg
 mods/songs/bad-time/Inst.ogg

@@ -1,27 +1,27 @@
 mods/data/wocky-remix/events.json
 mods/data/wocky-remix/mod.txt
 mods/data/wocky-remix/wocky-remix-hard.json
-mods/ArcadeShowdown/characters/bf.json
-mods/ArcadeShowdown/characters/newkapi.json
-mods/ArcadeShowdown/characters/paperkitty.json
-mods/ArcadeShowdown/stages/arcade.json
-mods/ArcadeShowdown/stages/arcade.lua
-mods/ArcadeShowdown/images/characters/newkapi.png
-mods/ArcadeShowdown/images/characters/newkapi.xml
-mods/ArcadeShowdown/images/characters/paperkitty.png
-mods/ArcadeShowdown/images/characters/paperkitty.xml
-mods/ArcadeShowdown/custom_events/Flash Camera.lua
-mods/ArcadeShowdown/custom_events/Cinematic_Bars.lua
-mods/ArcadeShowdown/custom_events/HudGone.lua
-mods/ArcadeShowdown/custom_events/Camera Switch.lua
-mods/ArcadeShowdown/scripts/accuracy.lua
-mods/ArcadeShowdown/scripts/screenBeat.lua
-mods/ArcadeShowdown/scripts/ThetaUI.lua
-mods/ArcadeShowdown/scripts/timeBar.lua
-mods/ArcadeShowdown/scripts/titlestuff.lua
-mods/ArcadeShowdown/images/arcade.png
-mods/ArcadeShowdown/images/floor-arcade.png
-mods/ArcadeShowdown/images/nothing.png
+mods/IHS vs Kapi/characters/bf.json
+mods/IHS vs Kapi/characters/newkapi.json
+mods/IHS vs Kapi/characters/paperkitty.json
+mods/IHS vs Kapi/stages/arcade.json
+mods/IHS vs Kapi/stages/arcade.lua
+mods/IHS vs Kapi/images/characters/newkapi.png
+mods/IHS vs Kapi/images/characters/newkapi.xml
+mods/IHS vs Kapi/images/characters/paperkitty.png
+mods/IHS vs Kapi/images/characters/paperkitty.xml
+mods/IHS vs Kapi/custom_events/Flash Camera.lua
+mods/IHS vs Kapi/custom_events/Cinematic_Bars.lua
+mods/IHS vs Kapi/custom_events/HudGone.lua
+mods/IHS vs Kapi/custom_events/Camera Switch.lua
+mods/IHS vs Kapi/scripts/accuracy.lua
+mods/IHS vs Kapi/scripts/screenBeat.lua
+mods/IHS vs Kapi/scripts/ThetaUI.lua
+mods/IHS vs Kapi/scripts/timeBar.lua
+mods/IHS vs Kapi/scripts/titlestuff.lua
+mods/IHS vs Kapi/images/arcade.png
+mods/IHS vs Kapi/images/floor-arcade.png
+mods/IHS vs Kapi/images/nothing.png
 mods/songs/wocky-remix/Voices.ogg
 mods/songs/wocky-remix/voices.ogg
 mods/songs/wocky-remix/Inst.ogg

@@ -2,34 +2,6 @@ mods/data/final-stretch/events.json
 mods/data/final-stretch/final-stretch-hard.json
 mods/data/final-stretch/final-stretch-no-mechanics.json
 mods/data/final-stretch/mod.txt
-mods/Indie Cross/stages/SansStageFS.json
-mods/Indie Cross/stages/SansStageFS.lua
-mods/Indie Cross/custom_events/cinematic.lua
-mods/Indie Cross/custom_events/Set Cam Zoom.lua
-mods/Indie Cross/custom_events/Blammed Lights.lua
-mods/Indie Cross/scripts/accuracy.lua
-mods/Indie Cross/scripts/BendyBlackScreenEffect.lua
-mods/Indie Cross/scripts/cameraMovement.lua
-mods/Indie Cross/scripts/cameraShake.lua
-mods/Indie Cross/scripts/changeFont-Indie Cross.lua
-mods/Indie Cross/scripts/changeHealthBar-IndieCross.lua
-mods/Indie Cross/scripts/changeNoteSplash.lua
-mods/Indie Cross/scripts/frameAnimation.lua
-mods/Indie Cross/scripts/Hell-Difficuty-IC.lua
-mods/Indie Cross/scripts/IndieCrossCountDown.lua
-mods/Indie Cross/scripts/PiperStrickerScript.lua
-mods/Indie Cross/scripts/PrecacheImages.lua
-mods/Indie Cross/scripts/screenBeat.lua
-mods/Indie Cross/scripts/songNameBox.lua
-mods/Indie Cross/scripts/ThetaUI.lua
-mods/Indie Cross/scripts/timeBar.lua
-mods/Indie Cross/sounds/sans/countdown.ogg
-mods/Indie Cross/fonts/CupheadICFont.ttf
-mods/Indie Cross/fonts/BendyICFont.ttf
-mods/Indie Cross/fonts/SansICFont.ttf
-mods/Indie Cross/fonts/PapyrusICFont.ttf
-mods/Indie Cross/sounds/bendy/whoosh.ogg
-mods/Indie Cross/sounds/bendy/inked.ogg
 mods/songs/final-stretch/Voices.ogg
 mods/songs/final-stretch/voices.ogg
 mods/songs/final-stretch/Inst.ogg

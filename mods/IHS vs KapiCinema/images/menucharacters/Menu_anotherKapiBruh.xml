@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Menu_anotherKapiBruh.png">
+<SubTexture name="wedoalittletrolling0000" x="0" y="0" width="586" height="559" frameX="-4" frameY="-3" frameWidth="594" frameHeight="562" />
+<SubTexture name="kapibruh0000" x="586" y="0" width="586" height="556" frameX="-5" frameY="-6" frameWidth="594" frameHeight="562" />
+</TextureAtlas>
