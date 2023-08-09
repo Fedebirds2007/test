@@ -17,7 +17,10 @@ mods/FNAF1/images/characters/freddy2.png
 mods/FNAF1/images/characters/freddy2.xml
 mods/FNAF1/images/characters/gf2.png
 mods/FNAF1/images/characters/gf2.xml
+mods/FNAF1/scripts/accuracy.lua
 mods/FNAF1/scripts/PrecacheImages.lua
+mods/FNAF1/scripts/ThetaUI.lua
+mods/FNAF1/scripts/timeBar.lua
 mods/FNAF1/images/freddy2.png
 mods/FNAF1/images/freddy2anims.png
 mods/FNAF1/images/freddy2anims.xml

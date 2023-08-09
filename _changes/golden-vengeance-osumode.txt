@@ -1,14 +1,9 @@
 mods/data/golden-vengeance/bar.lua
 mods/data/golden-vengeance/blackbar.lua
 mods/data/golden-vengeance/cameraMovement.lua
-mods/data/golden-vengeance/cutscene.lua
-mods/data/golden-vengeance/cutscene2.lua
-mods/data/golden-vengeance/death.lua
 mods/data/golden-vengeance/events.json
 mods/data/golden-vengeance/golden-vengeance-hard.json
-mods/data/golden-vengeance/jumpscare.lua
 mods/data/golden-vengeance/mod.txt
-mods/data/golden-vengeance/script.lua
 mods/FNAF2/stages/stagegf.json
 mods/FNAF2/stages/stagegf.lua
 mods/FNAF2/custom_events/addimagebehindui.lua
@@ -17,7 +12,10 @@ mods/FNAF2/custom_events/addimage.lua
 mods/FNAF2/custom_events/fadeout.lua
 mods/FNAF2/custom_events/zoom.lua
 mods/FNAF2/custom_events/remove image.lua
+mods/FNAF2/scripts/accuracy.lua
 mods/FNAF2/scripts/PrecacheImages.lua
+mods/FNAF2/scripts/ThetaUI.lua
+mods/FNAF2/scripts/timeBar.lua
 mods/songs/golden-vengeance/Voices.ogg
 mods/songs/golden-vengeance/voices.ogg
 mods/songs/golden-vengeance/Inst.ogg

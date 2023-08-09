@@ -4,7 +4,6 @@ mods/data/challeng-fredd/cameraMovement.lua
 mods/data/challeng-fredd/challeng-fredd-hard.json
 mods/data/challeng-fredd/events.json
 mods/data/challeng-fredd/mod.txt
-mods/data/challeng-fredd/script.lua
 mods/data/challeng-fredd/static.lua
 mods/FNAF2/stages/stagetfc.json
 mods/FNAF2/stages/stagetfc.lua
@@ -15,7 +14,10 @@ mods/FNAF2/custom_events/fadein.lua
 mods/FNAF2/custom_events/fadeout.lua
 mods/FNAF2/custom_events/zoom.lua
 mods/FNAF2/custom_events/black.lua
+mods/FNAF2/scripts/accuracy.lua
 mods/FNAF2/scripts/PrecacheImages.lua
+mods/FNAF2/scripts/ThetaUI.lua
+mods/FNAF2/scripts/timeBar.lua
 mods/songs/challeng-fredd/Voices.ogg
 mods/songs/challeng-fredd/voices.ogg
 mods/songs/challeng-fredd/Inst.ogg

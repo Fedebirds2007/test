@@ -1,4 +1,15 @@
 function onCreate()
+
+	precacheImage('static');
+	precacheImage('static2');
+	precacheImage('manglej');
+	precacheImage('manglestage2');
+	precacheImage('characters/mangle');
+	precacheImage('characters/mangle2');
+	precacheImage('characters/mangle3');
+
+	------------------------------------------------------------------------------
+
 	makeLuaSprite('manglestage', 'manglestage', -800, -700);
 	setLuaSpriteScrollFactor('manglestage', 1, 1);
 	scaleObject('manglestage', 0.9, 0.9);

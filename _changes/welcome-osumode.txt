@@ -3,6 +3,9 @@ mods/data/welcome/mod.txt
 mods/data/welcome/welcome-hard.json
 mods/FNAF2/stages/welcum.json
 mods/FNAF2/stages/welcum.lua
+mods/FNAF2/scripts/accuracy.lua
 mods/FNAF2/scripts/PrecacheImages.lua
+mods/FNAF2/scripts/ThetaUI.lua
+mods/FNAF2/scripts/timeBar.lua
 mods/songs/welcome/Inst.ogg
 mods/songs/welcome/inst.ogg

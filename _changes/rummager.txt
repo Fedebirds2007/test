@@ -22,7 +22,10 @@ mods/FNAF1/custom_notetypes/bad pizza2.lua
 mods/FNAF1/custom_notetypes/bad pizza.lua
 mods/FNAF1/custom_notetypes/bad pizza3.lua
 mods/FNAF1/custom_notetypes/bad pizza4.lua
+mods/FNAF1/scripts/accuracy.lua
 mods/FNAF1/scripts/PrecacheImages.lua
+mods/FNAF1/scripts/ThetaUI.lua
+mods/FNAF1/scripts/timeBar.lua
 mods/FNAF1/images/chica2.png
 mods/FNAF1/images/BADPIZZANOTE_assets.png
 mods/FNAF1/images/BADPIZZANOTE_assets.xml

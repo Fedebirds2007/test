@@ -20,7 +20,3 @@ mods/Deltarune/scripts/iconChange.lua
 mods/Deltarune/scripts/PrecacheImages.lua
 mods/Deltarune/scripts/ThetaUI.lua
 mods/Deltarune/scripts/timeBar.lua
-mods/songs/goner/Voices.ogg
-mods/songs/goner/voices.ogg
-mods/songs/goner/Inst.ogg
-mods/songs/goner/inst.ogg

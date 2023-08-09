@@ -6,7 +6,10 @@ mods/data/pirate-adventure/pirate-adventure-hard.json
 mods/data/pirate-adventure/pirate-adventure.json
 mods/FNAF1/stages/stage1p.json
 mods/FNAF1/stages/stage1p.lua
+mods/FNAF1/scripts/accuracy.lua
 mods/FNAF1/scripts/PrecacheImages.lua
+mods/FNAF1/scripts/ThetaUI.lua
+mods/FNAF1/scripts/timeBar.lua
 mods/songs/pirate-adventure/Voices.ogg
 mods/songs/pirate-adventure/voices.ogg
 mods/songs/pirate-adventure/Inst.ogg

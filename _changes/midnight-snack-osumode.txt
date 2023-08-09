@@ -6,7 +6,10 @@ mods/data/midnight-snack/midnight-snack.json
 mods/data/midnight-snack/mod.txt
 mods/FNAF1/stages/stage1c.json
 mods/FNAF1/stages/stage1c.lua
+mods/FNAF1/scripts/accuracy.lua
 mods/FNAF1/scripts/PrecacheImages.lua
+mods/FNAF1/scripts/ThetaUI.lua
+mods/FNAF1/scripts/timeBar.lua
 mods/songs/midnight-snack/Voices.ogg
 mods/songs/midnight-snack/voices.ogg
 mods/songs/midnight-snack/Inst.ogg

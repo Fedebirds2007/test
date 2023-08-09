@@ -1,4 +1,29 @@
 function onCreate()
+
+	precacheImage('characters/epfreddy');
+	precacheImage('characters/epbonnie');
+	precacheImage('characters/bf14');
+	precacheImage('characters/epbonnie2');
+	precacheImage('characters/epchica');
+	precacheImage('characters/special');
+	precacheImage('characters/special2');
+	precacheImage('characters/epmangle');
+	precacheImage('characters/bf15');
+	precacheImage('characters/puppetstare');
+	precacheImage('static');
+	precacheImage('static2');
+	precacheImage('leftnotes');
+	precacheImage('rightnotes');
+	precacheImage('ahhh');
+	precacheImage('chicjump');
+	precacheImage('epbstage');
+	precacheImage('epcstage');
+	precacheImage('epfstage');
+	precacheImage('epmstage');
+
+
+	-------------------------------------------------------------
+
 	makeLuaSprite('epfstage', 'epfstage', -800, -600);
 	setLuaSpriteScrollFactor('epfstage', 1, 1);
 	scaleObject('epfstage', 1, 1);

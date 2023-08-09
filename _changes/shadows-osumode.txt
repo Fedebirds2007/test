@@ -11,7 +11,10 @@ mods/FNAF2/custom_events/fadein.lua
 mods/FNAF2/custom_events/addanimimage.lua
 mods/FNAF2/custom_events/fadeout.lua
 mods/FNAF2/custom_events/remove image.lua
+mods/FNAF2/scripts/accuracy.lua
 mods/FNAF2/scripts/PrecacheImages.lua
+mods/FNAF2/scripts/ThetaUI.lua
+mods/FNAF2/scripts/timeBar.lua
 mods/songs/shadows/Voices.ogg
 mods/songs/shadows/voices.ogg
 mods/songs/shadows/Inst.ogg

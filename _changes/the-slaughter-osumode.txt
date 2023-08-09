@@ -5,7 +5,10 @@ mods/data/the-slaughter/the-slaughter-hard.json
 mods/data/the-slaughter/the-slaughter.json
 mods/FNAF1/stages/stage2f.json
 mods/FNAF1/stages/stage2f.lua
+mods/FNAF1/scripts/accuracy.lua
 mods/FNAF1/scripts/PrecacheImages.lua
+mods/FNAF1/scripts/ThetaUI.lua
+mods/FNAF1/scripts/timeBar.lua
 mods/songs/the-slaughter/Voices.ogg
 mods/songs/the-slaughter/voices.ogg
 mods/songs/the-slaughter/Inst.ogg

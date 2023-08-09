@@ -1,4 +1,11 @@
 function onCreate()
+
+	precacheImage('shadowstage2');
+	precacheImage('cursedfan');
+	precacheImage('characters/shadowbonnie2');
+
+	-------------------------------------------------------------------------
+
 	makeLuaSprite('sbstage', 'sbstage', -1500, -450);
 	setLuaSpriteScrollFactor('sbstage', 1, 1);
 	scaleObject('sbstage', 0.7, 0.7);

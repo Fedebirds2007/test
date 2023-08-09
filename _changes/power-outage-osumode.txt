@@ -7,7 +7,10 @@ mods/data/power-outage/power-outage.json
 mods/FNAF1/stages/stagep.json
 mods/FNAF1/stages/stagep.lua
 mods/FNAF1/custom_events/black.lua
+mods/FNAF1/scripts/accuracy.lua
 mods/FNAF1/scripts/PrecacheImages.lua
+mods/FNAF1/scripts/ThetaUI.lua
+mods/FNAF1/scripts/timeBar.lua
 mods/songs/power-outage/Voices.ogg
 mods/songs/power-outage/voices.ogg
 mods/songs/power-outage/Inst.ogg

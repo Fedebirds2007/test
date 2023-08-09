@@ -8,7 +8,10 @@ mods/FNAF1/stages/beat.json
 mods/FNAF1/stages/beat.lua
 mods/FNAF1/images/characters/beatbox.png
 mods/FNAF1/images/characters/beatbox.xml
+mods/FNAF1/scripts/accuracy.lua
 mods/FNAF1/scripts/PrecacheImages.lua
+mods/FNAF1/scripts/ThetaUI.lua
+mods/FNAF1/scripts/timeBar.lua
 mods/FNAF1/images/beat.png
 mods/FNAF1/images/pizzaCounter.png
 mods/FNAF1/images/bonnie3frame.png

@@ -74,7 +74,3 @@ mods/Deltarune/images/ass.png
 mods/Deltarune/images/dark.png
 mods/Deltarune/images/carousel_everyman.png
 mods/Deltarune/images/carousel.png
-mods/songs/goner/Voices.ogg
-mods/songs/goner/voices.ogg
-mods/songs/goner/Inst.ogg
-mods/songs/goner/inst.ogg

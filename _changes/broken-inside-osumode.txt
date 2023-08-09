@@ -10,7 +10,10 @@ mods/FNAF1/stages/stage3f.json
 mods/FNAF1/stages/stage3f.lua
 mods/FNAF1/custom_events/jump.lua
 mods/FNAF1/custom_events/black-remove.lua
+mods/FNAF1/scripts/accuracy.lua
 mods/FNAF1/scripts/PrecacheImages.lua
+mods/FNAF1/scripts/ThetaUI.lua
+mods/FNAF1/scripts/timeBar.lua
 mods/songs/broken-inside/Voices.ogg
 mods/songs/broken-inside/voices.ogg
 mods/songs/broken-inside/Inst.ogg

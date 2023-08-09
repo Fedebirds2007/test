@@ -1,4 +1,13 @@
 function onCreate()
+    
+	precacheImage('ah');
+	precacheImage('chicken');
+	precacheImage('tcstage2');
+	precacheImage('bbappear');
+	precacheImage('characters/bf7');
+	precacheImage('characters/epchica');
+	
+	-----------------------------------------------------------------------
 	
 	makeLuaSprite('tcstage', 'tcstage', 200, -450);
 	setLuaSpriteScrollFactor('tcstage', 1, 1);

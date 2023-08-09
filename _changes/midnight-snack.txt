@@ -12,7 +12,10 @@ mods/FNAF1/images/characters/bf2.png
 mods/FNAF1/images/characters/bf2.xml
 mods/FNAF1/images/characters/chica.png
 mods/FNAF1/images/characters/chica.xml
+mods/FNAF1/scripts/accuracy.lua
 mods/FNAF1/scripts/PrecacheImages.lua
+mods/FNAF1/scripts/ThetaUI.lua
+mods/FNAF1/scripts/timeBar.lua
 mods/FNAF1/images/chica1.png
 mods/FNAF1/images/pizzaCounter.png
 mods/FNAF1/images/bonnie3frame.png

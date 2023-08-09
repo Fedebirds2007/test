@@ -1,4 +1,19 @@
 function onCreate()
+
+	precacheImage('red');
+	precacheImage('leftnotes');
+	precacheImage('rightnotes');
+	precacheImage('wfoxystage2');
+	precacheImage('wfoxystage3');
+	precacheImage('wfoxyrun');
+	precacheImage('bfrun');
+	precacheImage('characters/bf9');
+	precacheImage('characters/wfoxy2');
+	precacheImage('characters/wfoxy3');
+	precacheImage('characters/bf10');
+
+	----------------------------------------------------------------
+
 	makeLuaSprite('wfoxystage', 'wfoxystage', -1400, -350);
 	setLuaSpriteScrollFactor('wfoxystage', 1, 1);
 	scaleObject('wfoxystage', 0.6, 0.6);

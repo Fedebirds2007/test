@@ -4,6 +4,30 @@ local dadPos2 = {}
 local bfPos2 = {}
 
 function onCreate()
+
+	precacheImage('characters/yofchica');
+	precacheImage('characters/yofbonnie');
+	precacheImage('characters/yoffoxy');
+	precacheImage('characters/yoffreddy');
+	precacheImage('characters/yoffreddy2');
+	precacheImage('characters/yoffreddy3');
+	precacheImage('leftnotes');
+	precacheImage('rightnotes');
+	precacheImage('yofbstage');
+	precacheImage('yofcstage');
+	precacheImage('yoffoxstage');
+	precacheImage('yoffreddystage');
+	precacheImage('yoffstage');
+	precacheImage('wfj');
+	precacheImage('wfj2');
+	precacheImage('golden');
+	precacheImage('characters/bf11');
+	precacheImage('characters/bf12');
+	precacheImage('characters/bf2');
+	
+
+	-------------------------------------------------------------------------------------
+
 	makeLuaSprite('yofbstage', 'yofbstage', -1400, -350);
 	setLuaSpriteScrollFactor('yofbstage', 0.8, 0.8);
 	scaleObject('yofbstage', 0.6, 0.6);

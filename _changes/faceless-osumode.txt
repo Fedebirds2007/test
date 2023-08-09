@@ -1,12 +1,9 @@
 mods/data/faceless/bar.lua
 mods/data/faceless/blackbar.lua
 mods/data/faceless/cameraMovement.lua
-mods/data/faceless/cutscene.lua
-mods/data/faceless/death.lua
 mods/data/faceless/events.json
 mods/data/faceless/faceless-hard.json
 mods/data/faceless/mod.txt
-mods/data/faceless/script.lua
 mods/FNAF2/stages/stagewb.json
 mods/FNAF2/stages/stagewb.lua
 mods/FNAF2/custom_events/fadein.lua
@@ -14,7 +11,10 @@ mods/FNAF2/custom_events/addanimimage.lua
 mods/FNAF2/custom_events/fadeout.lua
 mods/FNAF2/custom_events/zoom.lua
 mods/FNAF2/custom_events/black.lua
+mods/FNAF2/scripts/accuracy.lua
 mods/FNAF2/scripts/PrecacheImages.lua
+mods/FNAF2/scripts/ThetaUI.lua
+mods/FNAF2/scripts/timeBar.lua
 mods/songs/faceless/Voices.ogg
 mods/songs/faceless/voices.ogg
 mods/songs/faceless/Inst.ogg

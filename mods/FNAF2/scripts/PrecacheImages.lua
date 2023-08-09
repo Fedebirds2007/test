@@ -1,9 +1,9 @@
 
 function onCreate()
-    precacheImage('ah');
+-- dejar si o si  bar, black, black2, blackbar, blackbar2, blackbar3, white, whitescreen (el resto hay q ponerlos en cada stage)
 	precacheImage('ahhh');
 	precacheImage('bar');
-	precacheImage('bbappear');
+	
 	precacheImage('bbsign');
 	precacheImage('bbsign2');
 	precacheImage('black');
@@ -19,7 +19,7 @@ function onCreate()
 	precacheImage('challengchicnotice');
 	precacheImage('challengefrednotice');
 	precacheImage('chicjump');
-	precacheImage('chicken');
+
 	precacheImage('cmang');
 	precacheImage('cmanglefall');
 	precacheImage('gamerstage');
@@ -30,8 +30,10 @@ function onCreate()
 	precacheImage('golden');
 	precacheImage('jj');
 	precacheImage('jjhead');
+	---------------------------------
 	precacheImage('leftnotes');
 	precacheImage('rightnotes');
+	--------------------------------------
 	precacheImage('manglej');
 	precacheImage('manglestage2');
 	precacheImage('mrhugsjump');
@@ -40,16 +42,18 @@ function onCreate()
 	precacheImage('pupj2');
 	precacheImage('pupj3');
 	precacheImage('pupstage2');
-	precacheImage('rain');
-	precacheImage('red');
+
+	
 	precacheImage('sbstage2');
-	precacheImage('shadowstage2');
+
 	precacheImage('shadowstageglitch');
 	precacheImage('sparkleeffect');
 	precacheImage('stars');
 	precacheImage('static');
 	precacheImage('static2');
 	precacheImage('staticpurp');
+	precacheImage('rain');
+	-----------------------------------------------------
 	precacheImage('tbpossesed');
 	precacheImage('tbstage2');
 	precacheImage('tcstage2');
@@ -76,7 +80,7 @@ function onCreate()
 	precacheImage('yofbstage');
 	precacheImage('yofcstage');
 	precacheImage('yoffoxstage');
-	precacheImage('yoofreddystage');
+	precacheImage('yoffreddystage');
 	precacheImage('yoffstage');
 	precacheImage('characters/gtfreddyrage');
 	precacheImage('characters/golden2');
@@ -88,7 +92,7 @@ function onCreate()
 	precacheImage('characters/bf5');
 	precacheImage('characters/bf6');
 	precacheImage('characters/bf8');
-	precacheImage('characters/bf9');
+
 	precacheImage('characters/bf10');
 	precacheImage('characters/bf11');
 	precacheImage('characters/bf12');

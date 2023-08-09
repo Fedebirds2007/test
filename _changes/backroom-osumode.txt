@@ -9,7 +9,10 @@ mods/FNAF1/stages/shadow.lua
 mods/FNAF1/custom_notetypes/shadows.lua
 mods/FNAF1/custom_events/black-remove.lua
 mods/FNAF1/custom_events/Opponent Fade.lua
+mods/FNAF1/scripts/accuracy.lua
 mods/FNAF1/scripts/PrecacheImages.lua
+mods/FNAF1/scripts/ThetaUI.lua
+mods/FNAF1/scripts/timeBar.lua
 mods/songs/backroom/Voices.ogg
 mods/songs/backroom/voices.ogg
 mods/songs/backroom/Inst.ogg

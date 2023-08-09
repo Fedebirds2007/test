@@ -1,4 +1,26 @@
 function onCreate()
+
+    precacheImage('challengbonnie');
+	precacheImage('challengchic');
+	precacheImage('challengchicnotice');
+	precacheImage('challengfrednotice');
+	precacheImage('cmanglefall');
+	precacheImage('tmangstage');
+	precacheImage('tmangstage2');
+	precacheImage('cbon');
+	precacheImage('cchic');
+	precacheImage('cfred');
+	precacheImage('cmang');
+	precacheImage('cbf');
+	precacheImage('Target');
+	precacheImage('characters/bf8');
+	precacheImage('characters/cmangle');
+	precacheImage('characters/ctfred2');
+	precacheImage('endo_assets');
+	precacheImage('endo_assets2');
+	
+	--------------------------------------------------------------------
+
 	makeLuaSprite('tfstage', 'tfstage', -800, -600);
 	setLuaSpriteScrollFactor('tfstage', 1, 1);
 	scaleObject('tfstage', 1, 1);

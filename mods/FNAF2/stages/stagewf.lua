@@ -1,4 +1,18 @@
 function onCreate()
+
+	precacheImage('static');
+	precacheImage('static2');
+	precacheImage('characters/bf5');
+	precacheImage('characters/wfreddy2');
+	precacheImage('characters/wfreddy3');
+	precacheImage('wfj');
+	precacheImage('wfj2');
+	precacheImage('wfstage2');
+	precacheImage('wfstage3');
+	precacheImage('wfstage5');
+
+	--------------------------------------------------------------------
+
 	makeLuaSprite('wfstage', 'wfstage', -700, -250);
 	setLuaSpriteScrollFactor('wfstage', 1, 1);
 	scaleObject('wfstage', 0.4, 0.4);

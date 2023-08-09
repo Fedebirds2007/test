@@ -9,7 +9,10 @@ mods/data/join-the-band/script.lua
 mods/FNAF2/stages/stagetf.json
 mods/FNAF2/stages/stagetf.lua
 mods/FNAF2/custom_events/zoom.lua
+mods/FNAF2/scripts/accuracy.lua
 mods/FNAF2/scripts/PrecacheImages.lua
+mods/FNAF2/scripts/ThetaUI.lua
+mods/FNAF2/scripts/timeBar.lua
 mods/songs/join-the-band/Voices.ogg
 mods/songs/join-the-band/voices.ogg
 mods/songs/join-the-band/Inst.ogg

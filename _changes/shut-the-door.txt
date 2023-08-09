@@ -13,7 +13,10 @@ mods/FNAF1/images/characters/bonnierock.png
 mods/FNAF1/images/characters/bonnierock.xml
 mods/FNAF1/custom_notetypes/Door.lua
 mods/FNAF1/custom_events/black.lua
+mods/FNAF1/scripts/accuracy.lua
 mods/FNAF1/scripts/PrecacheImages.lua
+mods/FNAF1/scripts/ThetaUI.lua
+mods/FNAF1/scripts/timeBar.lua
 mods/FNAF1/images/bonnie3.png
 mods/FNAF1/images/bonnie3frame.png
 mods/FNAF1/images/Door.png

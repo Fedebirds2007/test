@@ -10,7 +10,10 @@ mods/FNAF1/custom_notetypes/cupcake Note.lua
 mods/FNAF1/custom_notetypes/pizza Note.lua
 mods/FNAF1/custom_notetypes/eat Note.lua
 mods/FNAF1/custom_events/black-remove.lua
+mods/FNAF1/scripts/accuracy.lua
 mods/FNAF1/scripts/PrecacheImages.lua
+mods/FNAF1/scripts/ThetaUI.lua
+mods/FNAF1/scripts/timeBar.lua
 mods/FNAF1/sounds/pizza.ogg
 mods/FNAF1/sounds/eat.ogg
 mods/FNAF1/sounds/pizza-loss.ogg

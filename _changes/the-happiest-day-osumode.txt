@@ -17,7 +17,10 @@ mods/FNAF1/custom_events/door-remove.lua
 mods/FNAF1/custom_events/Opponent Fade.lua
 mods/FNAF1/custom_events/foxyj2-remove.lua
 mods/FNAF1/custom_events/black.lua
+mods/FNAF1/scripts/accuracy.lua
 mods/FNAF1/scripts/PrecacheImages.lua
+mods/FNAF1/scripts/ThetaUI.lua
+mods/FNAF1/scripts/timeBar.lua
 mods/FNAF1/sounds/sword.ogg
 mods/FNAF1/sounds/slice.ogg
 mods/FNAF1/sounds/Door.ogg

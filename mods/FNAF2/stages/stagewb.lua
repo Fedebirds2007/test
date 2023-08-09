@@ -1,4 +1,17 @@
 function onCreate()
+
+	precacheImage('static');
+	precacheImage('static2');
+	precacheImage('wbstage4');
+	precacheImage('characters/wbonnie');
+	precacheImage('characters/wbonnie2');
+	precacheImage('characters/bf3');
+	precacheImage('arcade');
+	precacheImage('wbstage');
+	precacheImage('balloons');
+
+	---------------------------------------------------------------
+
 	makeLuaSprite('wbstage', 'wbstage', -800, -700);
 	setLuaSpriteScrollFactor('wbstage', 1, 1);
 	scaleObject('wbstage', 0.9, 0.9);
@@ -15,6 +28,16 @@ function onCreate()
 	addLuaSprite('wbstage', false);
 	addLuaSprite('arcade', true);
 	addLuaSprite('balloons', true);
-	
-	close(true);
+
+end
+
+function onStepHit()
+	if curStep == 1026 then
+      
+      makeLuaSprite('wbstage4', 'wbstage4', -400, -300);
+      scaleObject('wbstage4', 0.9, 0.9);
+
+      addLuaSprite('wbstage4', false);
+
+   	end
 end

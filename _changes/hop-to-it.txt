@@ -31,7 +31,10 @@ mods/FNAF2/custom_events/fadeout.lua
 mods/FNAF2/custom_events/zoom.lua
 mods/FNAF2/custom_events/remove image.lua
 mods/FNAF2/custom_events/black.lua
+mods/FNAF2/scripts/accuracy.lua
 mods/FNAF2/scripts/PrecacheImages.lua
+mods/FNAF2/scripts/ThetaUI.lua
+mods/FNAF2/scripts/timeBar.lua
 mods/FNAF2/images/tbstage.png
 mods/FNAF2/images/presents.png
 mods/FNAF2/images/tbstage2.png
@@ -53,10 +56,8 @@ mods/FNAF2/images/static.xml
 mods/FNAF2/images/rain.png
 mods/FNAF2/images/rain.xml
 mods/FNAF2/images/black.png
-mods/FNAF2/images/ah.png
 mods/FNAF2/images/ahhh.png
 mods/FNAF2/images/bar.png
-mods/FNAF2/images/bbappear.png
 mods/FNAF2/images/bbsign.png
 mods/FNAF2/images/bbsign2.png
 mods/FNAF2/images/black2.png
@@ -69,8 +70,6 @@ mods/FNAF2/images/cfred.png
 mods/FNAF2/images/challengbonnie.png
 mods/FNAF2/images/challengchic.png
 mods/FNAF2/images/challengchicnotice.png
-mods/FNAF2/images/chicken.png
-mods/FNAF2/images/cmang.png
 mods/FNAF2/images/cmanglefall.png
 mods/FNAF2/images/gamerstage.png
 mods/FNAF2/images/gamerstage2.png
@@ -89,9 +88,7 @@ mods/FNAF2/images/pupj1.png
 mods/FNAF2/images/pupj2.png
 mods/FNAF2/images/pupj3.png
 mods/FNAF2/images/pupstage2.png
-mods/FNAF2/images/red.png
 mods/FNAF2/images/sbstage2.png
-mods/FNAF2/images/shadowstage2.png
 mods/FNAF2/images/stars.png
 mods/FNAF2/images/tcstage2.png
 mods/FNAF2/images/tfstage5.png
@@ -116,6 +113,7 @@ mods/FNAF2/images/whitescreen.png
 mods/FNAF2/images/yofbstage.png
 mods/FNAF2/images/yofcstage.png
 mods/FNAF2/images/yoffoxstage.png
+mods/FNAF2/images/yoffreddystage.png
 mods/FNAF2/images/yoffstage.png
 mods/FNAF2/images/characters/gtfreddyrage.png
 mods/FNAF2/images/characters/golden2.png
@@ -124,7 +122,6 @@ mods/FNAF2/images/characters/bf4.png
 mods/FNAF2/images/characters/bf5.png
 mods/FNAF2/images/characters/bf6.png
 mods/FNAF2/images/characters/bf8.png
-mods/FNAF2/images/characters/bf9.png
 mods/FNAF2/images/characters/bf10.png
 mods/FNAF2/images/characters/bf11.png
 mods/FNAF2/images/characters/bf12.png

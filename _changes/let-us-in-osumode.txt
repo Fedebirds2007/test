@@ -5,7 +5,10 @@ mods/data/let-us-in/let-us-in.json
 mods/data/let-us-in/mod.txt
 mods/FNAF1/stages/stage1f.json
 mods/FNAF1/stages/stage1f.lua
+mods/FNAF1/scripts/accuracy.lua
 mods/FNAF1/scripts/PrecacheImages.lua
+mods/FNAF1/scripts/ThetaUI.lua
+mods/FNAF1/scripts/timeBar.lua
 mods/songs/let-us-in/Voices.ogg
 mods/songs/let-us-in/voices.ogg
 mods/songs/let-us-in/Inst.ogg

@@ -6,6 +6,9 @@ mods/data/freddy-fazballs/freddy-fazballs.json
 mods/data/freddy-fazballs/mod.txt
 mods/FNAF1/stages/balls.json
 mods/FNAF1/stages/balls.lua
+mods/FNAF1/scripts/accuracy.lua
 mods/FNAF1/scripts/PrecacheImages.lua
+mods/FNAF1/scripts/ThetaUI.lua
+mods/FNAF1/scripts/timeBar.lua
 mods/songs/freddy-fazballs/Inst.ogg
 mods/songs/freddy-fazballs/inst.ogg

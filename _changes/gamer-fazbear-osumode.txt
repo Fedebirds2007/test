@@ -4,13 +4,15 @@ mods/data/gamer-fazbear/cameraMovement.lua
 mods/data/gamer-fazbear/events.json
 mods/data/gamer-fazbear/gamer-fazbear-hard.json
 mods/data/gamer-fazbear/mod.txt
-mods/data/gamer-fazbear/script.lua
 mods/FNAF2/stages/stagegame.json
 mods/FNAF2/stages/stagegame.lua
 mods/FNAF2/custom_events/fadeout.lua
 mods/FNAF2/custom_events/addimage.lua
 mods/FNAF2/custom_events/zoom.lua
+mods/FNAF2/scripts/accuracy.lua
 mods/FNAF2/scripts/PrecacheImages.lua
+mods/FNAF2/scripts/ThetaUI.lua
+mods/FNAF2/scripts/timeBar.lua
 mods/songs/gamer-fazbear/Voices.ogg
 mods/songs/gamer-fazbear/voices.ogg
 mods/songs/gamer-fazbear/Inst.ogg

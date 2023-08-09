@@ -1,8 +1,6 @@
 mods/data/pecking-order/bar.lua
 mods/data/pecking-order/blackbar.lua
 mods/data/pecking-order/cameraMovement.lua
-mods/data/pecking-order/cutscene.lua
-mods/data/pecking-order/death.lua
 mods/data/pecking-order/events.json
 mods/data/pecking-order/mod.txt
 mods/data/pecking-order/pecking-order-hard.json
@@ -13,7 +11,10 @@ mods/FNAF2/custom_events/addimage.lua
 mods/FNAF2/custom_events/fadeout.lua
 mods/FNAF2/custom_events/zoom.lua
 mods/FNAF2/custom_events/black.lua
+mods/FNAF2/scripts/accuracy.lua
 mods/FNAF2/scripts/PrecacheImages.lua
+mods/FNAF2/scripts/ThetaUI.lua
+mods/FNAF2/scripts/timeBar.lua
 mods/songs/pecking-order/Voices.ogg
 mods/songs/pecking-order/voices.ogg
 mods/songs/pecking-order/Inst.ogg

@@ -5,7 +5,10 @@ mods/data/beatbox/cameraMovement.lua
 mods/data/beatbox/mod.txt
 mods/FNAF1/stages/beat.json
 mods/FNAF1/stages/beat.lua
+mods/FNAF1/scripts/accuracy.lua
 mods/FNAF1/scripts/PrecacheImages.lua
+mods/FNAF1/scripts/ThetaUI.lua
+mods/FNAF1/scripts/timeBar.lua
 mods/songs/beatbox/Voices.ogg
 mods/songs/beatbox/voices.ogg
 mods/songs/beatbox/Inst.ogg

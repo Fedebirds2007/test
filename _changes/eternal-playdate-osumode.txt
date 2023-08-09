@@ -13,7 +13,10 @@ mods/FNAF2/custom_events/addimage.lua
 mods/FNAF2/custom_events/fadeout.lua
 mods/FNAF2/custom_events/zoom.lua
 mods/FNAF2/custom_events/remove image.lua
+mods/FNAF2/scripts/accuracy.lua
 mods/FNAF2/scripts/PrecacheImages.lua
+mods/FNAF2/scripts/ThetaUI.lua
+mods/FNAF2/scripts/timeBar.lua
 mods/songs/eternal-playdate/Voices.ogg
 mods/songs/eternal-playdate/voices.ogg
 mods/songs/eternal-playdate/Inst.ogg

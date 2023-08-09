@@ -8,7 +8,10 @@ mods/data/dead-inside/script.lua
 mods/FNAF1/stages/stage3f.json
 mods/FNAF1/stages/stage3f.lua
 mods/FNAF1/custom_events/black-remove.lua
+mods/FNAF1/scripts/accuracy.lua
 mods/FNAF1/scripts/PrecacheImages.lua
+mods/FNAF1/scripts/ThetaUI.lua
+mods/FNAF1/scripts/timeBar.lua
 mods/songs/dead-inside/Voices.ogg
 mods/songs/dead-inside/voices.ogg
 mods/songs/dead-inside/Inst.ogg

@@ -7,7 +7,10 @@ mods/data/first-to-go/mod.txt
 mods/data/first-to-go/script.lua
 mods/FNAF1/stages/stage1b.json
 mods/FNAF1/stages/stage1b.lua
+mods/FNAF1/scripts/accuracy.lua
 mods/FNAF1/scripts/PrecacheImages.lua
+mods/FNAF1/scripts/ThetaUI.lua
+mods/FNAF1/scripts/timeBar.lua
 mods/songs/first-to-go/Voices.ogg
 mods/songs/first-to-go/voices.ogg
 mods/songs/first-to-go/Inst.ogg

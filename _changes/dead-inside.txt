@@ -14,7 +14,10 @@ mods/FNAF1/images/characters/bf3.xml
 mods/FNAF1/images/characters/gfreddy.png
 mods/FNAF1/images/characters/gfreddy.xml
 mods/FNAF1/custom_events/black-remove.lua
+mods/FNAF1/scripts/accuracy.lua
 mods/FNAF1/scripts/PrecacheImages.lua
+mods/FNAF1/scripts/ThetaUI.lua
+mods/FNAF1/scripts/timeBar.lua
 mods/FNAF1/images/freddy3.png
 mods/FNAF1/images/freddy3.xml
 mods/FNAF1/images/black.png

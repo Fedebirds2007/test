@@ -7,7 +7,10 @@ mods/data/freddy-assbear/jumpscare.lua
 mods/data/freddy-assbear/mod.txt
 mods/FNAF1/stages/stage1f.json
 mods/FNAF1/stages/stage1f.lua
+mods/FNAF1/scripts/accuracy.lua
 mods/FNAF1/scripts/PrecacheImages.lua
+mods/FNAF1/scripts/ThetaUI.lua
+mods/FNAF1/scripts/timeBar.lua
 mods/songs/freddy-assbear/Voices.ogg
 mods/songs/freddy-assbear/voices.ogg
 mods/songs/freddy-assbear/Inst.ogg

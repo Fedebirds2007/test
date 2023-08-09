@@ -1,13 +1,10 @@
 mods/data/pirate's-curse/bar.lua
 mods/data/pirate's-curse/blackbar.lua
 mods/data/pirate's-curse/cameraMovement.lua
-mods/data/pirate's-curse/cutscene.lua
-mods/data/pirate's-curse/death.lua
 mods/data/pirate's-curse/events.json
 mods/data/pirate's-curse/flipnote.lua
 mods/data/pirate's-curse/mod.txt
 mods/data/pirate's-curse/pirate's-curse-hard.json
-mods/data/pirate's-curse/script.lua
 mods/FNAF2/stages/stagewfox.json
 mods/FNAF2/stages/stagewfox.lua
 mods/FNAF2/custom_events/addimagebehindui.lua
@@ -16,7 +13,10 @@ mods/FNAF2/custom_events/fadeout.lua
 mods/FNAF2/custom_events/addimage.lua
 mods/FNAF2/custom_events/zoom.lua
 mods/FNAF2/custom_events/remove image.lua
+mods/FNAF2/scripts/accuracy.lua
 mods/FNAF2/scripts/PrecacheImages.lua
+mods/FNAF2/scripts/ThetaUI.lua
+mods/FNAF2/scripts/timeBar.lua
 mods/songs/pirate's-curse/Voices.ogg
 mods/songs/pirate's-curse/voices.ogg
 mods/songs/pirate's-curse/Inst.ogg

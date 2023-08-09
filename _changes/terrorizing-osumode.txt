@@ -5,7 +5,10 @@ mods/data/terrorizing/terrorizing-hard.json
 mods/data/terrorizing/terrorizing.json
 mods/FNAF1/stages/stage2b.json
 mods/FNAF1/stages/stage2b.lua
+mods/FNAF1/scripts/accuracy.lua
 mods/FNAF1/scripts/PrecacheImages.lua
+mods/FNAF1/scripts/ThetaUI.lua
+mods/FNAF1/scripts/timeBar.lua
 mods/songs/terrorizing/Voices.ogg
 mods/songs/terrorizing/voices.ogg
 mods/songs/terrorizing/Inst.ogg
